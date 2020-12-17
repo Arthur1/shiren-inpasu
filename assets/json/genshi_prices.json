@@ -1,0 +1,11842 @@
+[
+  {
+    "itemId": 1,
+    "size": null,
+    "state": 1,
+    "buyPrice": 2200,
+    "sellPrice": 770,
+    "isNatural": null
+  },
+  {
+    "itemId": 1,
+    "size": null,
+    "state": 0,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "isNatural": null
+  },
+  {
+    "itemId": 1,
+    "size": null,
+    "state": -1,
+    "buyPrice": 1600,
+    "sellPrice": 560,
+    "isNatural": null
+  },
+  {
+    "itemId": 2,
+    "size": null,
+    "state": 1,
+    "buyPrice": 2200,
+    "sellPrice": 770,
+    "isNatural": null
+  },
+  {
+    "itemId": 2,
+    "size": null,
+    "state": 0,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "isNatural": null
+  },
+  {
+    "itemId": 2,
+    "size": null,
+    "state": -1,
+    "buyPrice": 1600,
+    "sellPrice": 560,
+    "isNatural": null
+  },
+  {
+    "itemId": 3,
+    "size": null,
+    "state": 1,
+    "buyPrice": 2200,
+    "sellPrice": 770,
+    "isNatural": null
+  },
+  {
+    "itemId": 3,
+    "size": null,
+    "state": 0,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "isNatural": null
+  },
+  {
+    "itemId": 3,
+    "size": null,
+    "state": -1,
+    "buyPrice": 1600,
+    "sellPrice": 560,
+    "isNatural": null
+  },
+  {
+    "itemId": 4,
+    "size": null,
+    "state": 1,
+    "buyPrice": 2200,
+    "sellPrice": 770,
+    "isNatural": null
+  },
+  {
+    "itemId": 4,
+    "size": null,
+    "state": 0,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "isNatural": null
+  },
+  {
+    "itemId": 4,
+    "size": null,
+    "state": -1,
+    "buyPrice": 1600,
+    "sellPrice": 560,
+    "isNatural": null
+  },
+  {
+    "itemId": 5,
+    "size": null,
+    "state": 1,
+    "buyPrice": 3300,
+    "sellPrice": 1155,
+    "isNatural": null
+  },
+  {
+    "itemId": 5,
+    "size": null,
+    "state": 0,
+    "buyPrice": 3000,
+    "sellPrice": 1050,
+    "isNatural": null
+  },
+  {
+    "itemId": 5,
+    "size": null,
+    "state": -1,
+    "buyPrice": 2400,
+    "sellPrice": 840,
+    "isNatural": null
+  },
+  {
+    "itemId": 6,
+    "size": null,
+    "state": 1,
+    "buyPrice": 3300,
+    "sellPrice": 1155,
+    "isNatural": null
+  },
+  {
+    "itemId": 6,
+    "size": null,
+    "state": 0,
+    "buyPrice": 3000,
+    "sellPrice": 1050,
+    "isNatural": null
+  },
+  {
+    "itemId": 6,
+    "size": null,
+    "state": -1,
+    "buyPrice": 2400,
+    "sellPrice": 840,
+    "isNatural": null
+  },
+  {
+    "itemId": 7,
+    "size": null,
+    "state": 1,
+    "buyPrice": 3300,
+    "sellPrice": 1155,
+    "isNatural": null
+  },
+  {
+    "itemId": 7,
+    "size": null,
+    "state": 0,
+    "buyPrice": 3000,
+    "sellPrice": 1050,
+    "isNatural": null
+  },
+  {
+    "itemId": 7,
+    "size": null,
+    "state": -1,
+    "buyPrice": 2400,
+    "sellPrice": 840,
+    "isNatural": null
+  },
+  {
+    "itemId": 8,
+    "size": null,
+    "state": 1,
+    "buyPrice": 3300,
+    "sellPrice": 1155,
+    "isNatural": null
+  },
+  {
+    "itemId": 8,
+    "size": null,
+    "state": 0,
+    "buyPrice": 3000,
+    "sellPrice": 1050,
+    "isNatural": null
+  },
+  {
+    "itemId": 8,
+    "size": null,
+    "state": -1,
+    "buyPrice": 2400,
+    "sellPrice": 840,
+    "isNatural": null
+  },
+  {
+    "itemId": 9,
+    "size": null,
+    "state": 1,
+    "buyPrice": 3300,
+    "sellPrice": 1155,
+    "isNatural": null
+  },
+  {
+    "itemId": 9,
+    "size": null,
+    "state": 0,
+    "buyPrice": 3000,
+    "sellPrice": 1050,
+    "isNatural": null
+  },
+  {
+    "itemId": 9,
+    "size": null,
+    "state": -1,
+    "buyPrice": 2400,
+    "sellPrice": 840,
+    "isNatural": null
+  },
+  {
+    "itemId": 10,
+    "size": null,
+    "state": 1,
+    "buyPrice": 3300,
+    "sellPrice": 1155,
+    "isNatural": null
+  },
+  {
+    "itemId": 10,
+    "size": null,
+    "state": 0,
+    "buyPrice": 3000,
+    "sellPrice": 1050,
+    "isNatural": null
+  },
+  {
+    "itemId": 10,
+    "size": null,
+    "state": -1,
+    "buyPrice": 2400,
+    "sellPrice": 840,
+    "isNatural": null
+  },
+  {
+    "itemId": 11,
+    "size": null,
+    "state": 1,
+    "buyPrice": 3300,
+    "sellPrice": 1155,
+    "isNatural": null
+  },
+  {
+    "itemId": 11,
+    "size": null,
+    "state": 0,
+    "buyPrice": 3000,
+    "sellPrice": 1050,
+    "isNatural": null
+  },
+  {
+    "itemId": 11,
+    "size": null,
+    "state": -1,
+    "buyPrice": 2400,
+    "sellPrice": 840,
+    "isNatural": null
+  },
+  {
+    "itemId": 12,
+    "size": null,
+    "state": 1,
+    "buyPrice": 3300,
+    "sellPrice": 1155,
+    "isNatural": null
+  },
+  {
+    "itemId": 12,
+    "size": null,
+    "state": 0,
+    "buyPrice": 3000,
+    "sellPrice": 1050,
+    "isNatural": null
+  },
+  {
+    "itemId": 12,
+    "size": null,
+    "state": -1,
+    "buyPrice": 2400,
+    "sellPrice": 840,
+    "isNatural": null
+  },
+  {
+    "itemId": 13,
+    "size": null,
+    "state": 1,
+    "buyPrice": 3300,
+    "sellPrice": 1155,
+    "isNatural": null
+  },
+  {
+    "itemId": 13,
+    "size": null,
+    "state": 0,
+    "buyPrice": 3000,
+    "sellPrice": 1050,
+    "isNatural": null
+  },
+  {
+    "itemId": 13,
+    "size": null,
+    "state": -1,
+    "buyPrice": 2400,
+    "sellPrice": 840,
+    "isNatural": null
+  },
+  {
+    "itemId": 14,
+    "size": null,
+    "state": 1,
+    "buyPrice": 3300,
+    "sellPrice": 1155,
+    "isNatural": null
+  },
+  {
+    "itemId": 14,
+    "size": null,
+    "state": 0,
+    "buyPrice": 3000,
+    "sellPrice": 1050,
+    "isNatural": null
+  },
+  {
+    "itemId": 14,
+    "size": null,
+    "state": -1,
+    "buyPrice": 2400,
+    "sellPrice": 840,
+    "isNatural": null
+  },
+  {
+    "itemId": 15,
+    "size": null,
+    "state": 1,
+    "buyPrice": 5500,
+    "sellPrice": 1925,
+    "isNatural": null
+  },
+  {
+    "itemId": 15,
+    "size": null,
+    "state": 0,
+    "buyPrice": 5000,
+    "sellPrice": 1750,
+    "isNatural": null
+  },
+  {
+    "itemId": 15,
+    "size": null,
+    "state": -1,
+    "buyPrice": 4000,
+    "sellPrice": 1400,
+    "isNatural": null
+  },
+  {
+    "itemId": 16,
+    "size": null,
+    "state": 1,
+    "buyPrice": 5500,
+    "sellPrice": 1925,
+    "isNatural": null
+  },
+  {
+    "itemId": 16,
+    "size": null,
+    "state": 0,
+    "buyPrice": 5000,
+    "sellPrice": 1750,
+    "isNatural": null
+  },
+  {
+    "itemId": 16,
+    "size": null,
+    "state": -1,
+    "buyPrice": 4000,
+    "sellPrice": 1400,
+    "isNatural": null
+  },
+  {
+    "itemId": 17,
+    "size": null,
+    "state": 1,
+    "buyPrice": 5500,
+    "sellPrice": 1925,
+    "isNatural": null
+  },
+  {
+    "itemId": 17,
+    "size": null,
+    "state": 0,
+    "buyPrice": 5000,
+    "sellPrice": 1750,
+    "isNatural": null
+  },
+  {
+    "itemId": 17,
+    "size": null,
+    "state": -1,
+    "buyPrice": 4000,
+    "sellPrice": 1400,
+    "isNatural": null
+  },
+  {
+    "itemId": 18,
+    "size": null,
+    "state": 1,
+    "buyPrice": 5500,
+    "sellPrice": 1925,
+    "isNatural": null
+  },
+  {
+    "itemId": 18,
+    "size": null,
+    "state": 0,
+    "buyPrice": 5000,
+    "sellPrice": 1750,
+    "isNatural": null
+  },
+  {
+    "itemId": 18,
+    "size": null,
+    "state": -1,
+    "buyPrice": 4000,
+    "sellPrice": 1400,
+    "isNatural": null
+  },
+  {
+    "itemId": 19,
+    "size": null,
+    "state": 1,
+    "buyPrice": 5500,
+    "sellPrice": 1925,
+    "isNatural": null
+  },
+  {
+    "itemId": 19,
+    "size": null,
+    "state": 0,
+    "buyPrice": 5000,
+    "sellPrice": 1750,
+    "isNatural": null
+  },
+  {
+    "itemId": 19,
+    "size": null,
+    "state": -1,
+    "buyPrice": 4000,
+    "sellPrice": 1400,
+    "isNatural": null
+  },
+  {
+    "itemId": 20,
+    "size": null,
+    "state": 1,
+    "buyPrice": 5500,
+    "sellPrice": 1925,
+    "isNatural": null
+  },
+  {
+    "itemId": 20,
+    "size": null,
+    "state": 0,
+    "buyPrice": 5000,
+    "sellPrice": 1750,
+    "isNatural": null
+  },
+  {
+    "itemId": 20,
+    "size": null,
+    "state": -1,
+    "buyPrice": 4000,
+    "sellPrice": 1400,
+    "isNatural": null
+  },
+  {
+    "itemId": 21,
+    "size": null,
+    "state": 1,
+    "buyPrice": 5500,
+    "sellPrice": 1925,
+    "isNatural": null
+  },
+  {
+    "itemId": 21,
+    "size": null,
+    "state": 0,
+    "buyPrice": 5000,
+    "sellPrice": 1750,
+    "isNatural": null
+  },
+  {
+    "itemId": 21,
+    "size": null,
+    "state": -1,
+    "buyPrice": 4000,
+    "sellPrice": 1400,
+    "isNatural": null
+  },
+  {
+    "itemId": 22,
+    "size": null,
+    "state": 1,
+    "buyPrice": 5500,
+    "sellPrice": 1925,
+    "isNatural": null
+  },
+  {
+    "itemId": 22,
+    "size": null,
+    "state": 0,
+    "buyPrice": 5000,
+    "sellPrice": 1750,
+    "isNatural": null
+  },
+  {
+    "itemId": 22,
+    "size": null,
+    "state": -1,
+    "buyPrice": 4000,
+    "sellPrice": 1400,
+    "isNatural": null
+  },
+  {
+    "itemId": 23,
+    "size": null,
+    "state": 1,
+    "buyPrice": 5500,
+    "sellPrice": 1925,
+    "isNatural": null
+  },
+  {
+    "itemId": 23,
+    "size": null,
+    "state": 0,
+    "buyPrice": 5000,
+    "sellPrice": 1750,
+    "isNatural": null
+  },
+  {
+    "itemId": 23,
+    "size": null,
+    "state": -1,
+    "buyPrice": 4000,
+    "sellPrice": 1400,
+    "isNatural": null
+  },
+  {
+    "itemId": 24,
+    "size": null,
+    "state": 1,
+    "buyPrice": 5500,
+    "sellPrice": 1925,
+    "isNatural": null
+  },
+  {
+    "itemId": 24,
+    "size": null,
+    "state": 0,
+    "buyPrice": 5000,
+    "sellPrice": 1750,
+    "isNatural": null
+  },
+  {
+    "itemId": 24,
+    "size": null,
+    "state": -1,
+    "buyPrice": 4000,
+    "sellPrice": 1400,
+    "isNatural": null
+  },
+  {
+    "itemId": 25,
+    "size": null,
+    "state": 1,
+    "buyPrice": 5500,
+    "sellPrice": 1925,
+    "isNatural": null
+  },
+  {
+    "itemId": 25,
+    "size": null,
+    "state": 0,
+    "buyPrice": 5000,
+    "sellPrice": 1750,
+    "isNatural": null
+  },
+  {
+    "itemId": 25,
+    "size": null,
+    "state": -1,
+    "buyPrice": 4000,
+    "sellPrice": 1400,
+    "isNatural": null
+  },
+  {
+    "itemId": 26,
+    "size": null,
+    "state": 1,
+    "buyPrice": 11000,
+    "sellPrice": 3850,
+    "isNatural": null
+  },
+  {
+    "itemId": 26,
+    "size": null,
+    "state": 0,
+    "buyPrice": 10000,
+    "sellPrice": 3500,
+    "isNatural": null
+  },
+  {
+    "itemId": 26,
+    "size": null,
+    "state": -1,
+    "buyPrice": 8000,
+    "sellPrice": 2800,
+    "isNatural": null
+  },
+  {
+    "itemId": 27,
+    "size": null,
+    "state": 1,
+    "buyPrice": 11000,
+    "sellPrice": 3850,
+    "isNatural": null
+  },
+  {
+    "itemId": 27,
+    "size": null,
+    "state": 0,
+    "buyPrice": 10000,
+    "sellPrice": 3500,
+    "isNatural": null
+  },
+  {
+    "itemId": 27,
+    "size": null,
+    "state": -1,
+    "buyPrice": 8000,
+    "sellPrice": 2800,
+    "isNatural": null
+  },
+  {
+    "itemId": 28,
+    "size": null,
+    "state": 1,
+    "buyPrice": 33000,
+    "sellPrice": 11550,
+    "isNatural": null
+  },
+  {
+    "itemId": 28,
+    "size": null,
+    "state": 0,
+    "buyPrice": 30000,
+    "sellPrice": 10500,
+    "isNatural": null
+  },
+  {
+    "itemId": 28,
+    "size": null,
+    "state": -1,
+    "buyPrice": 24000,
+    "sellPrice": 8400,
+    "isNatural": null
+  },
+  {
+    "itemId": 29,
+    "size": null,
+    "state": 1,
+    "buyPrice": 55000,
+    "sellPrice": 19250,
+    "isNatural": null
+  },
+  {
+    "itemId": 29,
+    "size": null,
+    "state": 0,
+    "buyPrice": 50000,
+    "sellPrice": 17500,
+    "isNatural": null
+  },
+  {
+    "itemId": 29,
+    "size": null,
+    "state": -1,
+    "buyPrice": 40000,
+    "sellPrice": 14000,
+    "isNatural": null
+  },
+  {
+    "itemId": 30,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 30,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 693,
+    "sellPrice": 242,
+    "isNatural": false
+  },
+  {
+    "itemId": 30,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 726,
+    "sellPrice": 254,
+    "isNatural": false
+  },
+  {
+    "itemId": 30,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 759,
+    "sellPrice": 265,
+    "isNatural": false
+  },
+  {
+    "itemId": 30,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 792,
+    "sellPrice": 277,
+    "isNatural": false
+  },
+  {
+    "itemId": 30,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 825,
+    "sellPrice": 288,
+    "isNatural": true
+  },
+  {
+    "itemId": 30,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 858,
+    "sellPrice": 300,
+    "isNatural": true
+  },
+  {
+    "itemId": 30,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 891,
+    "sellPrice": 311,
+    "isNatural": true
+  },
+  {
+    "itemId": 30,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": false
+  },
+  {
+    "itemId": 30,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 630,
+    "sellPrice": 220,
+    "isNatural": false
+  },
+  {
+    "itemId": 30,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 30,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 690,
+    "sellPrice": 241,
+    "isNatural": false
+  },
+  {
+    "itemId": 30,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": false
+  },
+  {
+    "itemId": 30,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 750,
+    "sellPrice": 262,
+    "isNatural": true
+  },
+  {
+    "itemId": 30,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 780,
+    "sellPrice": 273,
+    "isNatural": true
+  },
+  {
+    "itemId": 30,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 810,
+    "sellPrice": 283,
+    "isNatural": true
+  },
+  {
+    "itemId": 30,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 480,
+    "sellPrice": 168,
+    "isNatural": false
+  },
+  {
+    "itemId": 30,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 504,
+    "sellPrice": 176,
+    "isNatural": false
+  },
+  {
+    "itemId": 30,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 528,
+    "sellPrice": 184,
+    "isNatural": false
+  },
+  {
+    "itemId": 30,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 552,
+    "sellPrice": 192,
+    "isNatural": false
+  },
+  {
+    "itemId": 30,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 576,
+    "sellPrice": 201,
+    "isNatural": false
+  },
+  {
+    "itemId": 30,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 600,
+    "sellPrice": 209,
+    "isNatural": true
+  },
+  {
+    "itemId": 30,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 624,
+    "sellPrice": 218,
+    "isNatural": true
+  },
+  {
+    "itemId": 30,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 648,
+    "sellPrice": 226,
+    "isNatural": true
+  },
+  {
+    "itemId": 31,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 31,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 693,
+    "sellPrice": 242,
+    "isNatural": false
+  },
+  {
+    "itemId": 31,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 726,
+    "sellPrice": 254,
+    "isNatural": false
+  },
+  {
+    "itemId": 31,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 759,
+    "sellPrice": 265,
+    "isNatural": false
+  },
+  {
+    "itemId": 31,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 792,
+    "sellPrice": 277,
+    "isNatural": false
+  },
+  {
+    "itemId": 31,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 825,
+    "sellPrice": 288,
+    "isNatural": true
+  },
+  {
+    "itemId": 31,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 858,
+    "sellPrice": 300,
+    "isNatural": true
+  },
+  {
+    "itemId": 31,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 891,
+    "sellPrice": 311,
+    "isNatural": true
+  },
+  {
+    "itemId": 31,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": false
+  },
+  {
+    "itemId": 31,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 630,
+    "sellPrice": 220,
+    "isNatural": false
+  },
+  {
+    "itemId": 31,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 31,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 690,
+    "sellPrice": 241,
+    "isNatural": false
+  },
+  {
+    "itemId": 31,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": false
+  },
+  {
+    "itemId": 31,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 750,
+    "sellPrice": 262,
+    "isNatural": true
+  },
+  {
+    "itemId": 31,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 780,
+    "sellPrice": 273,
+    "isNatural": true
+  },
+  {
+    "itemId": 31,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 810,
+    "sellPrice": 283,
+    "isNatural": true
+  },
+  {
+    "itemId": 31,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 480,
+    "sellPrice": 168,
+    "isNatural": false
+  },
+  {
+    "itemId": 31,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 504,
+    "sellPrice": 176,
+    "isNatural": false
+  },
+  {
+    "itemId": 31,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 528,
+    "sellPrice": 184,
+    "isNatural": false
+  },
+  {
+    "itemId": 31,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 552,
+    "sellPrice": 192,
+    "isNatural": false
+  },
+  {
+    "itemId": 31,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 576,
+    "sellPrice": 201,
+    "isNatural": false
+  },
+  {
+    "itemId": 31,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 600,
+    "sellPrice": 209,
+    "isNatural": true
+  },
+  {
+    "itemId": 31,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 624,
+    "sellPrice": 218,
+    "isNatural": true
+  },
+  {
+    "itemId": 31,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 648,
+    "sellPrice": 226,
+    "isNatural": true
+  },
+  {
+    "itemId": 32,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 32,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 693,
+    "sellPrice": 242,
+    "isNatural": false
+  },
+  {
+    "itemId": 32,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 726,
+    "sellPrice": 254,
+    "isNatural": false
+  },
+  {
+    "itemId": 32,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 759,
+    "sellPrice": 265,
+    "isNatural": false
+  },
+  {
+    "itemId": 32,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 792,
+    "sellPrice": 277,
+    "isNatural": false
+  },
+  {
+    "itemId": 32,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 825,
+    "sellPrice": 288,
+    "isNatural": true
+  },
+  {
+    "itemId": 32,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 858,
+    "sellPrice": 300,
+    "isNatural": true
+  },
+  {
+    "itemId": 32,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 891,
+    "sellPrice": 311,
+    "isNatural": true
+  },
+  {
+    "itemId": 32,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": false
+  },
+  {
+    "itemId": 32,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 630,
+    "sellPrice": 220,
+    "isNatural": false
+  },
+  {
+    "itemId": 32,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 32,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 690,
+    "sellPrice": 241,
+    "isNatural": false
+  },
+  {
+    "itemId": 32,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": false
+  },
+  {
+    "itemId": 32,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 750,
+    "sellPrice": 262,
+    "isNatural": true
+  },
+  {
+    "itemId": 32,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 780,
+    "sellPrice": 273,
+    "isNatural": true
+  },
+  {
+    "itemId": 32,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 810,
+    "sellPrice": 283,
+    "isNatural": true
+  },
+  {
+    "itemId": 32,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 480,
+    "sellPrice": 168,
+    "isNatural": false
+  },
+  {
+    "itemId": 32,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 504,
+    "sellPrice": 176,
+    "isNatural": false
+  },
+  {
+    "itemId": 32,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 528,
+    "sellPrice": 184,
+    "isNatural": false
+  },
+  {
+    "itemId": 32,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 552,
+    "sellPrice": 192,
+    "isNatural": false
+  },
+  {
+    "itemId": 32,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 576,
+    "sellPrice": 201,
+    "isNatural": false
+  },
+  {
+    "itemId": 32,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 600,
+    "sellPrice": 209,
+    "isNatural": true
+  },
+  {
+    "itemId": 32,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 624,
+    "sellPrice": 218,
+    "isNatural": true
+  },
+  {
+    "itemId": 32,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 648,
+    "sellPrice": 226,
+    "isNatural": true
+  },
+  {
+    "itemId": 33,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 33,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 693,
+    "sellPrice": 242,
+    "isNatural": false
+  },
+  {
+    "itemId": 33,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 726,
+    "sellPrice": 254,
+    "isNatural": false
+  },
+  {
+    "itemId": 33,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 759,
+    "sellPrice": 265,
+    "isNatural": false
+  },
+  {
+    "itemId": 33,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 792,
+    "sellPrice": 277,
+    "isNatural": true
+  },
+  {
+    "itemId": 33,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 825,
+    "sellPrice": 288,
+    "isNatural": true
+  },
+  {
+    "itemId": 33,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 858,
+    "sellPrice": 300,
+    "isNatural": true
+  },
+  {
+    "itemId": 33,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 891,
+    "sellPrice": 311,
+    "isNatural": false
+  },
+  {
+    "itemId": 33,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": false
+  },
+  {
+    "itemId": 33,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 630,
+    "sellPrice": 220,
+    "isNatural": false
+  },
+  {
+    "itemId": 33,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 33,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 690,
+    "sellPrice": 241,
+    "isNatural": false
+  },
+  {
+    "itemId": 33,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": true
+  },
+  {
+    "itemId": 33,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 750,
+    "sellPrice": 262,
+    "isNatural": true
+  },
+  {
+    "itemId": 33,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 780,
+    "sellPrice": 273,
+    "isNatural": true
+  },
+  {
+    "itemId": 33,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 810,
+    "sellPrice": 283,
+    "isNatural": false
+  },
+  {
+    "itemId": 33,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 480,
+    "sellPrice": 168,
+    "isNatural": false
+  },
+  {
+    "itemId": 33,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 504,
+    "sellPrice": 176,
+    "isNatural": false
+  },
+  {
+    "itemId": 33,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 528,
+    "sellPrice": 184,
+    "isNatural": false
+  },
+  {
+    "itemId": 33,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 552,
+    "sellPrice": 192,
+    "isNatural": false
+  },
+  {
+    "itemId": 33,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 576,
+    "sellPrice": 201,
+    "isNatural": true
+  },
+  {
+    "itemId": 33,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 600,
+    "sellPrice": 209,
+    "isNatural": true
+  },
+  {
+    "itemId": 33,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 624,
+    "sellPrice": 218,
+    "isNatural": true
+  },
+  {
+    "itemId": 33,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 648,
+    "sellPrice": 226,
+    "isNatural": false
+  },
+  {
+    "itemId": 34,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 34,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 693,
+    "sellPrice": 242,
+    "isNatural": false
+  },
+  {
+    "itemId": 34,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 726,
+    "sellPrice": 254,
+    "isNatural": false
+  },
+  {
+    "itemId": 34,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 759,
+    "sellPrice": 265,
+    "isNatural": false
+  },
+  {
+    "itemId": 34,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 792,
+    "sellPrice": 277,
+    "isNatural": true
+  },
+  {
+    "itemId": 34,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 825,
+    "sellPrice": 288,
+    "isNatural": true
+  },
+  {
+    "itemId": 34,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 858,
+    "sellPrice": 300,
+    "isNatural": true
+  },
+  {
+    "itemId": 34,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 891,
+    "sellPrice": 311,
+    "isNatural": false
+  },
+  {
+    "itemId": 34,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": false
+  },
+  {
+    "itemId": 34,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 630,
+    "sellPrice": 220,
+    "isNatural": false
+  },
+  {
+    "itemId": 34,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 34,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 690,
+    "sellPrice": 241,
+    "isNatural": false
+  },
+  {
+    "itemId": 34,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": true
+  },
+  {
+    "itemId": 34,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 750,
+    "sellPrice": 262,
+    "isNatural": true
+  },
+  {
+    "itemId": 34,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 780,
+    "sellPrice": 273,
+    "isNatural": true
+  },
+  {
+    "itemId": 34,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 810,
+    "sellPrice": 283,
+    "isNatural": false
+  },
+  {
+    "itemId": 34,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 480,
+    "sellPrice": 168,
+    "isNatural": false
+  },
+  {
+    "itemId": 34,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 504,
+    "sellPrice": 176,
+    "isNatural": false
+  },
+  {
+    "itemId": 34,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 528,
+    "sellPrice": 184,
+    "isNatural": false
+  },
+  {
+    "itemId": 34,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 552,
+    "sellPrice": 192,
+    "isNatural": false
+  },
+  {
+    "itemId": 34,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 576,
+    "sellPrice": 201,
+    "isNatural": true
+  },
+  {
+    "itemId": 34,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 600,
+    "sellPrice": 209,
+    "isNatural": true
+  },
+  {
+    "itemId": 34,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 624,
+    "sellPrice": 218,
+    "isNatural": true
+  },
+  {
+    "itemId": 34,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 648,
+    "sellPrice": 226,
+    "isNatural": false
+  },
+  {
+    "itemId": 35,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 35,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 693,
+    "sellPrice": 242,
+    "isNatural": false
+  },
+  {
+    "itemId": 35,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 726,
+    "sellPrice": 254,
+    "isNatural": false
+  },
+  {
+    "itemId": 35,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 759,
+    "sellPrice": 265,
+    "isNatural": false
+  },
+  {
+    "itemId": 35,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 792,
+    "sellPrice": 277,
+    "isNatural": false
+  },
+  {
+    "itemId": 35,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 825,
+    "sellPrice": 288,
+    "isNatural": true
+  },
+  {
+    "itemId": 35,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 858,
+    "sellPrice": 300,
+    "isNatural": true
+  },
+  {
+    "itemId": 35,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 891,
+    "sellPrice": 311,
+    "isNatural": true
+  },
+  {
+    "itemId": 35,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": false
+  },
+  {
+    "itemId": 35,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 630,
+    "sellPrice": 220,
+    "isNatural": false
+  },
+  {
+    "itemId": 35,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 35,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 690,
+    "sellPrice": 241,
+    "isNatural": false
+  },
+  {
+    "itemId": 35,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": false
+  },
+  {
+    "itemId": 35,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 750,
+    "sellPrice": 262,
+    "isNatural": true
+  },
+  {
+    "itemId": 35,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 780,
+    "sellPrice": 273,
+    "isNatural": true
+  },
+  {
+    "itemId": 35,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 810,
+    "sellPrice": 283,
+    "isNatural": true
+  },
+  {
+    "itemId": 35,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 480,
+    "sellPrice": 168,
+    "isNatural": false
+  },
+  {
+    "itemId": 35,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 504,
+    "sellPrice": 176,
+    "isNatural": false
+  },
+  {
+    "itemId": 35,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 528,
+    "sellPrice": 184,
+    "isNatural": false
+  },
+  {
+    "itemId": 35,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 552,
+    "sellPrice": 192,
+    "isNatural": false
+  },
+  {
+    "itemId": 35,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 576,
+    "sellPrice": 201,
+    "isNatural": false
+  },
+  {
+    "itemId": 35,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 600,
+    "sellPrice": 209,
+    "isNatural": true
+  },
+  {
+    "itemId": 35,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 624,
+    "sellPrice": 218,
+    "isNatural": true
+  },
+  {
+    "itemId": 35,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 648,
+    "sellPrice": 226,
+    "isNatural": true
+  },
+  {
+    "itemId": 36,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 990,
+    "sellPrice": 346,
+    "isNatural": false
+  },
+  {
+    "itemId": 36,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1039,
+    "sellPrice": 363,
+    "isNatural": false
+  },
+  {
+    "itemId": 36,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1089,
+    "sellPrice": 380,
+    "isNatural": false
+  },
+  {
+    "itemId": 36,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1138,
+    "sellPrice": 398,
+    "isNatural": false
+  },
+  {
+    "itemId": 36,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1188,
+    "sellPrice": 415,
+    "isNatural": true
+  },
+  {
+    "itemId": 36,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 1237,
+    "sellPrice": 432,
+    "isNatural": true
+  },
+  {
+    "itemId": 36,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 1287,
+    "sellPrice": 449,
+    "isNatural": true
+  },
+  {
+    "itemId": 36,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 1336,
+    "sellPrice": 467,
+    "isNatural": false
+  },
+  {
+    "itemId": 36,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 900,
+    "sellPrice": 315,
+    "isNatural": false
+  },
+  {
+    "itemId": 36,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 945,
+    "sellPrice": 330,
+    "isNatural": false
+  },
+  {
+    "itemId": 36,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 990,
+    "sellPrice": 346,
+    "isNatural": false
+  },
+  {
+    "itemId": 36,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1035,
+    "sellPrice": 362,
+    "isNatural": false
+  },
+  {
+    "itemId": 36,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1080,
+    "sellPrice": 378,
+    "isNatural": true
+  },
+  {
+    "itemId": 36,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1125,
+    "sellPrice": 393,
+    "isNatural": true
+  },
+  {
+    "itemId": 36,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 1070,
+    "sellPrice": 409,
+    "isNatural": true
+  },
+  {
+    "itemId": 36,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 1215,
+    "sellPrice": 425,
+    "isNatural": false
+  },
+  {
+    "itemId": 36,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": false
+  },
+  {
+    "itemId": 36,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 756,
+    "sellPrice": 264,
+    "isNatural": false
+  },
+  {
+    "itemId": 36,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 792,
+    "sellPrice": 276,
+    "isNatural": false
+  },
+  {
+    "itemId": 36,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 828,
+    "sellPrice": 289,
+    "isNatural": false
+  },
+  {
+    "itemId": 36,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 864,
+    "sellPrice": 302,
+    "isNatural": true
+  },
+  {
+    "itemId": 36,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 900,
+    "sellPrice": 314,
+    "isNatural": true
+  },
+  {
+    "itemId": 36,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 936,
+    "sellPrice": 327,
+    "isNatural": true
+  },
+  {
+    "itemId": 36,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 972,
+    "sellPrice": 340,
+    "isNatural": false
+  },
+  {
+    "itemId": 37,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 990,
+    "sellPrice": 346,
+    "isNatural": false
+  },
+  {
+    "itemId": 37,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1039,
+    "sellPrice": 363,
+    "isNatural": false
+  },
+  {
+    "itemId": 37,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1089,
+    "sellPrice": 380,
+    "isNatural": false
+  },
+  {
+    "itemId": 37,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1138,
+    "sellPrice": 398,
+    "isNatural": false
+  },
+  {
+    "itemId": 37,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1188,
+    "sellPrice": 415,
+    "isNatural": true
+  },
+  {
+    "itemId": 37,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 1237,
+    "sellPrice": 432,
+    "isNatural": true
+  },
+  {
+    "itemId": 37,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 1287,
+    "sellPrice": 449,
+    "isNatural": true
+  },
+  {
+    "itemId": 37,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 1336,
+    "sellPrice": 467,
+    "isNatural": false
+  },
+  {
+    "itemId": 37,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 900,
+    "sellPrice": 315,
+    "isNatural": false
+  },
+  {
+    "itemId": 37,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 945,
+    "sellPrice": 330,
+    "isNatural": false
+  },
+  {
+    "itemId": 37,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 990,
+    "sellPrice": 346,
+    "isNatural": false
+  },
+  {
+    "itemId": 37,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1035,
+    "sellPrice": 362,
+    "isNatural": false
+  },
+  {
+    "itemId": 37,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1080,
+    "sellPrice": 378,
+    "isNatural": true
+  },
+  {
+    "itemId": 37,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1125,
+    "sellPrice": 393,
+    "isNatural": true
+  },
+  {
+    "itemId": 37,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 1070,
+    "sellPrice": 409,
+    "isNatural": true
+  },
+  {
+    "itemId": 37,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 1215,
+    "sellPrice": 425,
+    "isNatural": false
+  },
+  {
+    "itemId": 37,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": false
+  },
+  {
+    "itemId": 37,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 756,
+    "sellPrice": 264,
+    "isNatural": false
+  },
+  {
+    "itemId": 37,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 792,
+    "sellPrice": 276,
+    "isNatural": false
+  },
+  {
+    "itemId": 37,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 828,
+    "sellPrice": 289,
+    "isNatural": false
+  },
+  {
+    "itemId": 37,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 864,
+    "sellPrice": 302,
+    "isNatural": true
+  },
+  {
+    "itemId": 37,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 900,
+    "sellPrice": 314,
+    "isNatural": true
+  },
+  {
+    "itemId": 37,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 936,
+    "sellPrice": 327,
+    "isNatural": true
+  },
+  {
+    "itemId": 37,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 972,
+    "sellPrice": 340,
+    "isNatural": false
+  },
+  {
+    "itemId": 38,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 990,
+    "sellPrice": 346,
+    "isNatural": false
+  },
+  {
+    "itemId": 38,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1039,
+    "sellPrice": 363,
+    "isNatural": false
+  },
+  {
+    "itemId": 38,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1089,
+    "sellPrice": 380,
+    "isNatural": false
+  },
+  {
+    "itemId": 38,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1138,
+    "sellPrice": 398,
+    "isNatural": false
+  },
+  {
+    "itemId": 38,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1188,
+    "sellPrice": 415,
+    "isNatural": false
+  },
+  {
+    "itemId": 38,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 1237,
+    "sellPrice": 432,
+    "isNatural": true
+  },
+  {
+    "itemId": 38,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 1287,
+    "sellPrice": 449,
+    "isNatural": true
+  },
+  {
+    "itemId": 38,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 1336,
+    "sellPrice": 467,
+    "isNatural": true
+  },
+  {
+    "itemId": 38,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 900,
+    "sellPrice": 315,
+    "isNatural": false
+  },
+  {
+    "itemId": 38,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 945,
+    "sellPrice": 330,
+    "isNatural": false
+  },
+  {
+    "itemId": 38,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 990,
+    "sellPrice": 346,
+    "isNatural": false
+  },
+  {
+    "itemId": 38,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1035,
+    "sellPrice": 362,
+    "isNatural": false
+  },
+  {
+    "itemId": 38,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1080,
+    "sellPrice": 378,
+    "isNatural": false
+  },
+  {
+    "itemId": 38,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1125,
+    "sellPrice": 393,
+    "isNatural": true
+  },
+  {
+    "itemId": 38,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 1070,
+    "sellPrice": 409,
+    "isNatural": true
+  },
+  {
+    "itemId": 38,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 1215,
+    "sellPrice": 425,
+    "isNatural": true
+  },
+  {
+    "itemId": 38,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": false
+  },
+  {
+    "itemId": 38,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 756,
+    "sellPrice": 264,
+    "isNatural": false
+  },
+  {
+    "itemId": 38,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 792,
+    "sellPrice": 276,
+    "isNatural": false
+  },
+  {
+    "itemId": 38,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 828,
+    "sellPrice": 289,
+    "isNatural": false
+  },
+  {
+    "itemId": 38,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 864,
+    "sellPrice": 302,
+    "isNatural": false
+  },
+  {
+    "itemId": 38,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 900,
+    "sellPrice": 314,
+    "isNatural": true
+  },
+  {
+    "itemId": 38,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 936,
+    "sellPrice": 327,
+    "isNatural": true
+  },
+  {
+    "itemId": 38,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 972,
+    "sellPrice": 340,
+    "isNatural": true
+  },
+  {
+    "itemId": 39,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 990,
+    "sellPrice": 346,
+    "isNatural": false
+  },
+  {
+    "itemId": 39,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1039,
+    "sellPrice": 363,
+    "isNatural": false
+  },
+  {
+    "itemId": 39,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1089,
+    "sellPrice": 380,
+    "isNatural": false
+  },
+  {
+    "itemId": 39,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1138,
+    "sellPrice": 398,
+    "isNatural": false
+  },
+  {
+    "itemId": 39,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1188,
+    "sellPrice": 415,
+    "isNatural": false
+  },
+  {
+    "itemId": 39,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 1237,
+    "sellPrice": 432,
+    "isNatural": true
+  },
+  {
+    "itemId": 39,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 1287,
+    "sellPrice": 449,
+    "isNatural": true
+  },
+  {
+    "itemId": 39,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 1336,
+    "sellPrice": 467,
+    "isNatural": true
+  },
+  {
+    "itemId": 39,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 900,
+    "sellPrice": 315,
+    "isNatural": false
+  },
+  {
+    "itemId": 39,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 945,
+    "sellPrice": 330,
+    "isNatural": false
+  },
+  {
+    "itemId": 39,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 990,
+    "sellPrice": 346,
+    "isNatural": false
+  },
+  {
+    "itemId": 39,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1035,
+    "sellPrice": 362,
+    "isNatural": false
+  },
+  {
+    "itemId": 39,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1080,
+    "sellPrice": 378,
+    "isNatural": false
+  },
+  {
+    "itemId": 39,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1125,
+    "sellPrice": 393,
+    "isNatural": true
+  },
+  {
+    "itemId": 39,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 1070,
+    "sellPrice": 409,
+    "isNatural": true
+  },
+  {
+    "itemId": 39,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 1215,
+    "sellPrice": 425,
+    "isNatural": true
+  },
+  {
+    "itemId": 39,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": false
+  },
+  {
+    "itemId": 39,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 756,
+    "sellPrice": 264,
+    "isNatural": false
+  },
+  {
+    "itemId": 39,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 792,
+    "sellPrice": 276,
+    "isNatural": false
+  },
+  {
+    "itemId": 39,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 828,
+    "sellPrice": 289,
+    "isNatural": false
+  },
+  {
+    "itemId": 39,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 864,
+    "sellPrice": 302,
+    "isNatural": false
+  },
+  {
+    "itemId": 39,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 900,
+    "sellPrice": 314,
+    "isNatural": true
+  },
+  {
+    "itemId": 39,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 936,
+    "sellPrice": 327,
+    "isNatural": true
+  },
+  {
+    "itemId": 39,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 972,
+    "sellPrice": 340,
+    "isNatural": true
+  },
+  {
+    "itemId": 40,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 990,
+    "sellPrice": 346,
+    "isNatural": false
+  },
+  {
+    "itemId": 40,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1039,
+    "sellPrice": 363,
+    "isNatural": false
+  },
+  {
+    "itemId": 40,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1089,
+    "sellPrice": 380,
+    "isNatural": false
+  },
+  {
+    "itemId": 40,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1138,
+    "sellPrice": 398,
+    "isNatural": false
+  },
+  {
+    "itemId": 40,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1188,
+    "sellPrice": 415,
+    "isNatural": false
+  },
+  {
+    "itemId": 40,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 1237,
+    "sellPrice": 432,
+    "isNatural": true
+  },
+  {
+    "itemId": 40,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 1287,
+    "sellPrice": 449,
+    "isNatural": true
+  },
+  {
+    "itemId": 40,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 1336,
+    "sellPrice": 467,
+    "isNatural": true
+  },
+  {
+    "itemId": 40,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 900,
+    "sellPrice": 315,
+    "isNatural": false
+  },
+  {
+    "itemId": 40,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 945,
+    "sellPrice": 330,
+    "isNatural": false
+  },
+  {
+    "itemId": 40,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 990,
+    "sellPrice": 346,
+    "isNatural": false
+  },
+  {
+    "itemId": 40,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1035,
+    "sellPrice": 362,
+    "isNatural": false
+  },
+  {
+    "itemId": 40,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1080,
+    "sellPrice": 378,
+    "isNatural": false
+  },
+  {
+    "itemId": 40,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1125,
+    "sellPrice": 393,
+    "isNatural": true
+  },
+  {
+    "itemId": 40,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 1070,
+    "sellPrice": 409,
+    "isNatural": true
+  },
+  {
+    "itemId": 40,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 1215,
+    "sellPrice": 425,
+    "isNatural": true
+  },
+  {
+    "itemId": 40,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": false
+  },
+  {
+    "itemId": 40,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 756,
+    "sellPrice": 264,
+    "isNatural": false
+  },
+  {
+    "itemId": 40,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 792,
+    "sellPrice": 276,
+    "isNatural": false
+  },
+  {
+    "itemId": 40,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 828,
+    "sellPrice": 289,
+    "isNatural": false
+  },
+  {
+    "itemId": 40,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 864,
+    "sellPrice": 302,
+    "isNatural": false
+  },
+  {
+    "itemId": 40,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 900,
+    "sellPrice": 314,
+    "isNatural": true
+  },
+  {
+    "itemId": 40,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 936,
+    "sellPrice": 327,
+    "isNatural": true
+  },
+  {
+    "itemId": 40,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 972,
+    "sellPrice": 340,
+    "isNatural": true
+  },
+  {
+    "itemId": 41,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 990,
+    "sellPrice": 346,
+    "isNatural": false
+  },
+  {
+    "itemId": 41,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1039,
+    "sellPrice": 363,
+    "isNatural": false
+  },
+  {
+    "itemId": 41,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1089,
+    "sellPrice": 380,
+    "isNatural": false
+  },
+  {
+    "itemId": 41,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1138,
+    "sellPrice": 398,
+    "isNatural": false
+  },
+  {
+    "itemId": 41,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1188,
+    "sellPrice": 415,
+    "isNatural": false
+  },
+  {
+    "itemId": 41,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 1237,
+    "sellPrice": 432,
+    "isNatural": true
+  },
+  {
+    "itemId": 41,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 1287,
+    "sellPrice": 449,
+    "isNatural": true
+  },
+  {
+    "itemId": 41,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 1336,
+    "sellPrice": 467,
+    "isNatural": true
+  },
+  {
+    "itemId": 41,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 900,
+    "sellPrice": 315,
+    "isNatural": false
+  },
+  {
+    "itemId": 41,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 945,
+    "sellPrice": 330,
+    "isNatural": false
+  },
+  {
+    "itemId": 41,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 990,
+    "sellPrice": 346,
+    "isNatural": false
+  },
+  {
+    "itemId": 41,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1035,
+    "sellPrice": 362,
+    "isNatural": false
+  },
+  {
+    "itemId": 41,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1080,
+    "sellPrice": 378,
+    "isNatural": false
+  },
+  {
+    "itemId": 41,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1125,
+    "sellPrice": 393,
+    "isNatural": true
+  },
+  {
+    "itemId": 41,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 1070,
+    "sellPrice": 409,
+    "isNatural": true
+  },
+  {
+    "itemId": 41,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 1215,
+    "sellPrice": 425,
+    "isNatural": true
+  },
+  {
+    "itemId": 41,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": false
+  },
+  {
+    "itemId": 41,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 756,
+    "sellPrice": 264,
+    "isNatural": false
+  },
+  {
+    "itemId": 41,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 792,
+    "sellPrice": 276,
+    "isNatural": false
+  },
+  {
+    "itemId": 41,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 828,
+    "sellPrice": 289,
+    "isNatural": false
+  },
+  {
+    "itemId": 41,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 864,
+    "sellPrice": 302,
+    "isNatural": false
+  },
+  {
+    "itemId": 41,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 900,
+    "sellPrice": 314,
+    "isNatural": true
+  },
+  {
+    "itemId": 41,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 936,
+    "sellPrice": 327,
+    "isNatural": true
+  },
+  {
+    "itemId": 41,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 972,
+    "sellPrice": 340,
+    "isNatural": true
+  },
+  {
+    "itemId": 42,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 990,
+    "sellPrice": 346,
+    "isNatural": false
+  },
+  {
+    "itemId": 42,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1039,
+    "sellPrice": 363,
+    "isNatural": false
+  },
+  {
+    "itemId": 42,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1089,
+    "sellPrice": 380,
+    "isNatural": false
+  },
+  {
+    "itemId": 42,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1138,
+    "sellPrice": 398,
+    "isNatural": false
+  },
+  {
+    "itemId": 42,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1188,
+    "sellPrice": 415,
+    "isNatural": true
+  },
+  {
+    "itemId": 42,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 1237,
+    "sellPrice": 432,
+    "isNatural": true
+  },
+  {
+    "itemId": 42,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 1287,
+    "sellPrice": 449,
+    "isNatural": true
+  },
+  {
+    "itemId": 42,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 1336,
+    "sellPrice": 467,
+    "isNatural": false
+  },
+  {
+    "itemId": 42,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 900,
+    "sellPrice": 315,
+    "isNatural": false
+  },
+  {
+    "itemId": 42,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 945,
+    "sellPrice": 330,
+    "isNatural": false
+  },
+  {
+    "itemId": 42,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 990,
+    "sellPrice": 346,
+    "isNatural": false
+  },
+  {
+    "itemId": 42,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1035,
+    "sellPrice": 362,
+    "isNatural": false
+  },
+  {
+    "itemId": 42,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1080,
+    "sellPrice": 378,
+    "isNatural": true
+  },
+  {
+    "itemId": 42,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1125,
+    "sellPrice": 393,
+    "isNatural": true
+  },
+  {
+    "itemId": 42,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 1070,
+    "sellPrice": 409,
+    "isNatural": true
+  },
+  {
+    "itemId": 42,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 1215,
+    "sellPrice": 425,
+    "isNatural": false
+  },
+  {
+    "itemId": 42,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": false
+  },
+  {
+    "itemId": 42,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 756,
+    "sellPrice": 264,
+    "isNatural": false
+  },
+  {
+    "itemId": 42,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 792,
+    "sellPrice": 276,
+    "isNatural": false
+  },
+  {
+    "itemId": 42,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 828,
+    "sellPrice": 289,
+    "isNatural": false
+  },
+  {
+    "itemId": 42,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 864,
+    "sellPrice": 302,
+    "isNatural": true
+  },
+  {
+    "itemId": 42,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 900,
+    "sellPrice": 314,
+    "isNatural": true
+  },
+  {
+    "itemId": 42,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 936,
+    "sellPrice": 327,
+    "isNatural": true
+  },
+  {
+    "itemId": 42,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 972,
+    "sellPrice": 340,
+    "isNatural": false
+  },
+  {
+    "itemId": 43,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 990,
+    "sellPrice": 346,
+    "isNatural": false
+  },
+  {
+    "itemId": 43,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1039,
+    "sellPrice": 363,
+    "isNatural": false
+  },
+  {
+    "itemId": 43,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1089,
+    "sellPrice": 380,
+    "isNatural": false
+  },
+  {
+    "itemId": 43,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1138,
+    "sellPrice": 398,
+    "isNatural": false
+  },
+  {
+    "itemId": 43,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1188,
+    "sellPrice": 415,
+    "isNatural": true
+  },
+  {
+    "itemId": 43,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 1237,
+    "sellPrice": 432,
+    "isNatural": true
+  },
+  {
+    "itemId": 43,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 1287,
+    "sellPrice": 449,
+    "isNatural": true
+  },
+  {
+    "itemId": 43,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 1336,
+    "sellPrice": 467,
+    "isNatural": false
+  },
+  {
+    "itemId": 43,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 900,
+    "sellPrice": 315,
+    "isNatural": false
+  },
+  {
+    "itemId": 43,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 945,
+    "sellPrice": 330,
+    "isNatural": false
+  },
+  {
+    "itemId": 43,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 990,
+    "sellPrice": 346,
+    "isNatural": false
+  },
+  {
+    "itemId": 43,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1035,
+    "sellPrice": 362,
+    "isNatural": false
+  },
+  {
+    "itemId": 43,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1080,
+    "sellPrice": 378,
+    "isNatural": true
+  },
+  {
+    "itemId": 43,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1125,
+    "sellPrice": 393,
+    "isNatural": true
+  },
+  {
+    "itemId": 43,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 1070,
+    "sellPrice": 409,
+    "isNatural": true
+  },
+  {
+    "itemId": 43,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 1215,
+    "sellPrice": 425,
+    "isNatural": false
+  },
+  {
+    "itemId": 43,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": false
+  },
+  {
+    "itemId": 43,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 756,
+    "sellPrice": 264,
+    "isNatural": false
+  },
+  {
+    "itemId": 43,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 792,
+    "sellPrice": 276,
+    "isNatural": false
+  },
+  {
+    "itemId": 43,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 828,
+    "sellPrice": 289,
+    "isNatural": false
+  },
+  {
+    "itemId": 43,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 864,
+    "sellPrice": 302,
+    "isNatural": true
+  },
+  {
+    "itemId": 43,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 900,
+    "sellPrice": 314,
+    "isNatural": true
+  },
+  {
+    "itemId": 43,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 936,
+    "sellPrice": 327,
+    "isNatural": true
+  },
+  {
+    "itemId": 43,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 972,
+    "sellPrice": 340,
+    "isNatural": false
+  },
+  {
+    "itemId": 44,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1320,
+    "sellPrice": 462,
+    "isNatural": false
+  },
+  {
+    "itemId": 44,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1386,
+    "sellPrice": 485,
+    "isNatural": false
+  },
+  {
+    "itemId": 44,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1452,
+    "sellPrice": 508,
+    "isNatural": false
+  },
+  {
+    "itemId": 44,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1518,
+    "sellPrice": 531,
+    "isNatural": false
+  },
+  {
+    "itemId": 44,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1584,
+    "sellPrice": 554,
+    "isNatural": true
+  },
+  {
+    "itemId": 44,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 1650,
+    "sellPrice": 577,
+    "isNatural": true
+  },
+  {
+    "itemId": 44,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 1716,
+    "sellPrice": 600,
+    "isNatural": true
+  },
+  {
+    "itemId": 44,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 1782,
+    "sellPrice": 623,
+    "isNatural": false
+  },
+  {
+    "itemId": 44,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1200,
+    "sellPrice": 420,
+    "isNatural": false
+  },
+  {
+    "itemId": 44,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1260,
+    "sellPrice": 441,
+    "isNatural": false
+  },
+  {
+    "itemId": 44,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 1320,
+    "sellPrice": 462,
+    "isNatural": false
+  },
+  {
+    "itemId": 44,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1380,
+    "sellPrice": 483,
+    "isNatural": false
+  },
+  {
+    "itemId": 44,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1440,
+    "sellPrice": 504,
+    "isNatural": true
+  },
+  {
+    "itemId": 44,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1500,
+    "sellPrice": 525,
+    "isNatural": true
+  },
+  {
+    "itemId": 44,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 1560,
+    "sellPrice": 546,
+    "isNatural": true
+  },
+  {
+    "itemId": 44,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 1620,
+    "sellPrice": 567,
+    "isNatural": false
+  },
+  {
+    "itemId": 44,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 960,
+    "sellPrice": 336,
+    "isNatural": false
+  },
+  {
+    "itemId": 44,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 1008,
+    "sellPrice": 352,
+    "isNatural": false
+  },
+  {
+    "itemId": 44,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 1056,
+    "sellPrice": 369,
+    "isNatural": false
+  },
+  {
+    "itemId": 44,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 1104,
+    "sellPrice": 386,
+    "isNatural": false
+  },
+  {
+    "itemId": 44,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 1152,
+    "sellPrice": 403,
+    "isNatural": true
+  },
+  {
+    "itemId": 44,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1200,
+    "sellPrice": 420,
+    "isNatural": true
+  },
+  {
+    "itemId": 44,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 1248,
+    "sellPrice": 436,
+    "isNatural": true
+  },
+  {
+    "itemId": 44,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 1296,
+    "sellPrice": 453,
+    "isNatural": false
+  },
+  {
+    "itemId": 45,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1320,
+    "sellPrice": 462,
+    "isNatural": false
+  },
+  {
+    "itemId": 45,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1386,
+    "sellPrice": 485,
+    "isNatural": false
+  },
+  {
+    "itemId": 45,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1452,
+    "sellPrice": 508,
+    "isNatural": false
+  },
+  {
+    "itemId": 45,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1518,
+    "sellPrice": 531,
+    "isNatural": false
+  },
+  {
+    "itemId": 45,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1584,
+    "sellPrice": 554,
+    "isNatural": true
+  },
+  {
+    "itemId": 45,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 1650,
+    "sellPrice": 577,
+    "isNatural": true
+  },
+  {
+    "itemId": 45,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 1716,
+    "sellPrice": 600,
+    "isNatural": true
+  },
+  {
+    "itemId": 45,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 1782,
+    "sellPrice": 623,
+    "isNatural": false
+  },
+  {
+    "itemId": 45,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1200,
+    "sellPrice": 420,
+    "isNatural": false
+  },
+  {
+    "itemId": 45,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1260,
+    "sellPrice": 441,
+    "isNatural": false
+  },
+  {
+    "itemId": 45,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 1320,
+    "sellPrice": 462,
+    "isNatural": false
+  },
+  {
+    "itemId": 45,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1380,
+    "sellPrice": 483,
+    "isNatural": false
+  },
+  {
+    "itemId": 45,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1440,
+    "sellPrice": 504,
+    "isNatural": true
+  },
+  {
+    "itemId": 45,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1500,
+    "sellPrice": 525,
+    "isNatural": true
+  },
+  {
+    "itemId": 45,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 1560,
+    "sellPrice": 546,
+    "isNatural": true
+  },
+  {
+    "itemId": 45,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 1620,
+    "sellPrice": 567,
+    "isNatural": false
+  },
+  {
+    "itemId": 45,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 960,
+    "sellPrice": 336,
+    "isNatural": false
+  },
+  {
+    "itemId": 45,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 1008,
+    "sellPrice": 352,
+    "isNatural": false
+  },
+  {
+    "itemId": 45,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 1056,
+    "sellPrice": 369,
+    "isNatural": false
+  },
+  {
+    "itemId": 45,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 1104,
+    "sellPrice": 386,
+    "isNatural": false
+  },
+  {
+    "itemId": 45,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 1152,
+    "sellPrice": 403,
+    "isNatural": true
+  },
+  {
+    "itemId": 45,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1200,
+    "sellPrice": 420,
+    "isNatural": true
+  },
+  {
+    "itemId": 45,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 1248,
+    "sellPrice": 436,
+    "isNatural": true
+  },
+  {
+    "itemId": 45,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 1296,
+    "sellPrice": 453,
+    "isNatural": false
+  },
+  {
+    "itemId": 46,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1650,
+    "sellPrice": 577,
+    "isNatural": false
+  },
+  {
+    "itemId": 46,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1732,
+    "sellPrice": 606,
+    "isNatural": false
+  },
+  {
+    "itemId": 46,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1815,
+    "sellPrice": 634,
+    "isNatural": false
+  },
+  {
+    "itemId": 46,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1837,
+    "sellPrice": 663,
+    "isNatural": false
+  },
+  {
+    "itemId": 46,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1980,
+    "sellPrice": 693,
+    "isNatural": true
+  },
+  {
+    "itemId": 46,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 2062,
+    "sellPrice": 721,
+    "isNatural": true
+  },
+  {
+    "itemId": 46,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 2145,
+    "sellPrice": 750,
+    "isNatural": true
+  },
+  {
+    "itemId": 46,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 2227,
+    "sellPrice": 778,
+    "isNatural": false
+  },
+  {
+    "itemId": 46,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1500,
+    "sellPrice": 525,
+    "isNatural": false
+  },
+  {
+    "itemId": 46,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1575,
+    "sellPrice": 551,
+    "isNatural": false
+  },
+  {
+    "itemId": 46,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 1650,
+    "sellPrice": 577,
+    "isNatural": false
+  },
+  {
+    "itemId": 46,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1725,
+    "sellPrice": 603,
+    "isNatural": false
+  },
+  {
+    "itemId": 46,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1800,
+    "sellPrice": 630,
+    "isNatural": true
+  },
+  {
+    "itemId": 46,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1875,
+    "sellPrice": 656,
+    "isNatural": true
+  },
+  {
+    "itemId": 46,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 1950,
+    "sellPrice": 682,
+    "isNatural": true
+  },
+  {
+    "itemId": 46,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 2025,
+    "sellPrice": 708,
+    "isNatural": false
+  },
+  {
+    "itemId": 46,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 1200,
+    "sellPrice": 420,
+    "isNatural": false
+  },
+  {
+    "itemId": 46,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 1260,
+    "sellPrice": 440,
+    "isNatural": false
+  },
+  {
+    "itemId": 46,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 1320,
+    "sellPrice": 461,
+    "isNatural": false
+  },
+  {
+    "itemId": 46,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 1380,
+    "sellPrice": 482,
+    "isNatural": false
+  },
+  {
+    "itemId": 46,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 1440,
+    "sellPrice": 504,
+    "isNatural": true
+  },
+  {
+    "itemId": 46,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1500,
+    "sellPrice": 524,
+    "isNatural": true
+  },
+  {
+    "itemId": 46,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 1560,
+    "sellPrice": 545,
+    "isNatural": true
+  },
+  {
+    "itemId": 46,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 1620,
+    "sellPrice": 566,
+    "isNatural": false
+  },
+  {
+    "itemId": 47,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1650,
+    "sellPrice": 577,
+    "isNatural": false
+  },
+  {
+    "itemId": 47,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1732,
+    "sellPrice": 606,
+    "isNatural": false
+  },
+  {
+    "itemId": 47,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1815,
+    "sellPrice": 634,
+    "isNatural": false
+  },
+  {
+    "itemId": 47,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1837,
+    "sellPrice": 663,
+    "isNatural": false
+  },
+  {
+    "itemId": 47,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1980,
+    "sellPrice": 693,
+    "isNatural": true
+  },
+  {
+    "itemId": 47,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 2062,
+    "sellPrice": 721,
+    "isNatural": true
+  },
+  {
+    "itemId": 47,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 2145,
+    "sellPrice": 750,
+    "isNatural": true
+  },
+  {
+    "itemId": 47,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 2227,
+    "sellPrice": 778,
+    "isNatural": false
+  },
+  {
+    "itemId": 47,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1500,
+    "sellPrice": 525,
+    "isNatural": false
+  },
+  {
+    "itemId": 47,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1575,
+    "sellPrice": 551,
+    "isNatural": false
+  },
+  {
+    "itemId": 47,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 1650,
+    "sellPrice": 577,
+    "isNatural": false
+  },
+  {
+    "itemId": 47,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1725,
+    "sellPrice": 603,
+    "isNatural": false
+  },
+  {
+    "itemId": 47,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1800,
+    "sellPrice": 630,
+    "isNatural": true
+  },
+  {
+    "itemId": 47,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1875,
+    "sellPrice": 656,
+    "isNatural": true
+  },
+  {
+    "itemId": 47,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 1950,
+    "sellPrice": 682,
+    "isNatural": true
+  },
+  {
+    "itemId": 47,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 2025,
+    "sellPrice": 708,
+    "isNatural": false
+  },
+  {
+    "itemId": 47,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 1200,
+    "sellPrice": 420,
+    "isNatural": false
+  },
+  {
+    "itemId": 47,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 1260,
+    "sellPrice": 440,
+    "isNatural": false
+  },
+  {
+    "itemId": 47,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 1320,
+    "sellPrice": 461,
+    "isNatural": false
+  },
+  {
+    "itemId": 47,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 1380,
+    "sellPrice": 482,
+    "isNatural": false
+  },
+  {
+    "itemId": 47,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 1440,
+    "sellPrice": 504,
+    "isNatural": true
+  },
+  {
+    "itemId": 47,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1500,
+    "sellPrice": 524,
+    "isNatural": true
+  },
+  {
+    "itemId": 47,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 1560,
+    "sellPrice": 545,
+    "isNatural": true
+  },
+  {
+    "itemId": 47,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 1620,
+    "sellPrice": 566,
+    "isNatural": false
+  },
+  {
+    "itemId": 48,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1650,
+    "sellPrice": 577,
+    "isNatural": false
+  },
+  {
+    "itemId": 48,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1732,
+    "sellPrice": 606,
+    "isNatural": false
+  },
+  {
+    "itemId": 48,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1815,
+    "sellPrice": 634,
+    "isNatural": false
+  },
+  {
+    "itemId": 48,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1837,
+    "sellPrice": 663,
+    "isNatural": false
+  },
+  {
+    "itemId": 48,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1980,
+    "sellPrice": 693,
+    "isNatural": true
+  },
+  {
+    "itemId": 48,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 2062,
+    "sellPrice": 721,
+    "isNatural": true
+  },
+  {
+    "itemId": 48,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 2145,
+    "sellPrice": 750,
+    "isNatural": true
+  },
+  {
+    "itemId": 48,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 2227,
+    "sellPrice": 778,
+    "isNatural": false
+  },
+  {
+    "itemId": 48,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1500,
+    "sellPrice": 525,
+    "isNatural": false
+  },
+  {
+    "itemId": 48,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1575,
+    "sellPrice": 551,
+    "isNatural": false
+  },
+  {
+    "itemId": 48,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 1650,
+    "sellPrice": 577,
+    "isNatural": false
+  },
+  {
+    "itemId": 48,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1725,
+    "sellPrice": 603,
+    "isNatural": false
+  },
+  {
+    "itemId": 48,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1800,
+    "sellPrice": 630,
+    "isNatural": true
+  },
+  {
+    "itemId": 48,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1875,
+    "sellPrice": 656,
+    "isNatural": true
+  },
+  {
+    "itemId": 48,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 1950,
+    "sellPrice": 682,
+    "isNatural": true
+  },
+  {
+    "itemId": 48,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 2025,
+    "sellPrice": 708,
+    "isNatural": false
+  },
+  {
+    "itemId": 48,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 1200,
+    "sellPrice": 420,
+    "isNatural": false
+  },
+  {
+    "itemId": 48,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 1260,
+    "sellPrice": 440,
+    "isNatural": false
+  },
+  {
+    "itemId": 48,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 1320,
+    "sellPrice": 461,
+    "isNatural": false
+  },
+  {
+    "itemId": 48,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 1380,
+    "sellPrice": 482,
+    "isNatural": false
+  },
+  {
+    "itemId": 48,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 1440,
+    "sellPrice": 504,
+    "isNatural": true
+  },
+  {
+    "itemId": 48,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1500,
+    "sellPrice": 524,
+    "isNatural": true
+  },
+  {
+    "itemId": 48,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 1560,
+    "sellPrice": 545,
+    "isNatural": true
+  },
+  {
+    "itemId": 48,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 1620,
+    "sellPrice": 566,
+    "isNatural": false
+  },
+  {
+    "itemId": 49,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1980,
+    "sellPrice": 693,
+    "isNatural": false
+  },
+  {
+    "itemId": 49,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 2079,
+    "sellPrice": 727,
+    "isNatural": false
+  },
+  {
+    "itemId": 49,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 2178,
+    "sellPrice": 762,
+    "isNatural": false
+  },
+  {
+    "itemId": 49,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 2277,
+    "sellPrice": 796,
+    "isNatural": false
+  },
+  {
+    "itemId": 49,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 2376,
+    "sellPrice": 831,
+    "isNatural": true
+  },
+  {
+    "itemId": 49,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 2475,
+    "sellPrice": 865,
+    "isNatural": true
+  },
+  {
+    "itemId": 49,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 2574,
+    "sellPrice": 900,
+    "isNatural": true
+  },
+  {
+    "itemId": 49,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 2673,
+    "sellPrice": 935,
+    "isNatural": false
+  },
+  {
+    "itemId": 49,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1800,
+    "sellPrice": 630,
+    "isNatural": false
+  },
+  {
+    "itemId": 49,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1890,
+    "sellPrice": 661,
+    "isNatural": false
+  },
+  {
+    "itemId": 49,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 198,
+    "sellPrice": 693,
+    "isNatural": false
+  },
+  {
+    "itemId": 49,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 2070,
+    "sellPrice": 724,
+    "isNatural": false
+  },
+  {
+    "itemId": 49,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 2160,
+    "sellPrice": 756,
+    "isNatural": true
+  },
+  {
+    "itemId": 49,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 2250,
+    "sellPrice": 787,
+    "isNatural": true
+  },
+  {
+    "itemId": 49,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 2340,
+    "sellPrice": 819,
+    "isNatural": true
+  },
+  {
+    "itemId": 49,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 2430,
+    "sellPrice": 850,
+    "isNatural": false
+  },
+  {
+    "itemId": 49,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 1440,
+    "sellPrice": 504,
+    "isNatural": false
+  },
+  {
+    "itemId": 49,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 1512,
+    "sellPrice": 528,
+    "isNatural": false
+  },
+  {
+    "itemId": 49,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 1584,
+    "sellPrice": 554,
+    "isNatural": false
+  },
+  {
+    "itemId": 49,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 1656,
+    "sellPrice": 579,
+    "isNatural": false
+  },
+  {
+    "itemId": 49,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 1728,
+    "sellPrice": 604,
+    "isNatural": true
+  },
+  {
+    "itemId": 49,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1800,
+    "sellPrice": 629,
+    "isNatural": true
+  },
+  {
+    "itemId": 49,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 1872,
+    "sellPrice": 655,
+    "isNatural": true
+  },
+  {
+    "itemId": 49,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 1944,
+    "sellPrice": 680,
+    "isNatural": false
+  },
+  {
+    "itemId": 50,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1980,
+    "sellPrice": 693,
+    "isNatural": false
+  },
+  {
+    "itemId": 50,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 2079,
+    "sellPrice": 727,
+    "isNatural": false
+  },
+  {
+    "itemId": 50,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 2178,
+    "sellPrice": 762,
+    "isNatural": false
+  },
+  {
+    "itemId": 50,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 2277,
+    "sellPrice": 796,
+    "isNatural": false
+  },
+  {
+    "itemId": 50,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 2376,
+    "sellPrice": 831,
+    "isNatural": true
+  },
+  {
+    "itemId": 50,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 2475,
+    "sellPrice": 865,
+    "isNatural": true
+  },
+  {
+    "itemId": 50,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 2574,
+    "sellPrice": 900,
+    "isNatural": true
+  },
+  {
+    "itemId": 50,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 2673,
+    "sellPrice": 935,
+    "isNatural": false
+  },
+  {
+    "itemId": 50,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1800,
+    "sellPrice": 630,
+    "isNatural": false
+  },
+  {
+    "itemId": 50,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1890,
+    "sellPrice": 661,
+    "isNatural": false
+  },
+  {
+    "itemId": 50,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 198,
+    "sellPrice": 693,
+    "isNatural": false
+  },
+  {
+    "itemId": 50,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 2070,
+    "sellPrice": 724,
+    "isNatural": false
+  },
+  {
+    "itemId": 50,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 2160,
+    "sellPrice": 756,
+    "isNatural": true
+  },
+  {
+    "itemId": 50,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 2250,
+    "sellPrice": 787,
+    "isNatural": true
+  },
+  {
+    "itemId": 50,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 2340,
+    "sellPrice": 819,
+    "isNatural": true
+  },
+  {
+    "itemId": 50,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 2430,
+    "sellPrice": 850,
+    "isNatural": false
+  },
+  {
+    "itemId": 50,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 1440,
+    "sellPrice": 504,
+    "isNatural": false
+  },
+  {
+    "itemId": 50,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 1512,
+    "sellPrice": 528,
+    "isNatural": false
+  },
+  {
+    "itemId": 50,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 1584,
+    "sellPrice": 554,
+    "isNatural": false
+  },
+  {
+    "itemId": 50,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 1656,
+    "sellPrice": 579,
+    "isNatural": false
+  },
+  {
+    "itemId": 50,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 1728,
+    "sellPrice": 604,
+    "isNatural": true
+  },
+  {
+    "itemId": 50,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1800,
+    "sellPrice": 629,
+    "isNatural": true
+  },
+  {
+    "itemId": 50,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 1872,
+    "sellPrice": 655,
+    "isNatural": true
+  },
+  {
+    "itemId": 50,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 1944,
+    "sellPrice": 680,
+    "isNatural": false
+  },
+  {
+    "itemId": 51,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1980,
+    "sellPrice": 693,
+    "isNatural": false
+  },
+  {
+    "itemId": 51,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 2079,
+    "sellPrice": 727,
+    "isNatural": false
+  },
+  {
+    "itemId": 51,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 2178,
+    "sellPrice": 762,
+    "isNatural": false
+  },
+  {
+    "itemId": 51,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 2277,
+    "sellPrice": 796,
+    "isNatural": false
+  },
+  {
+    "itemId": 51,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 2376,
+    "sellPrice": 831,
+    "isNatural": true
+  },
+  {
+    "itemId": 51,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 2475,
+    "sellPrice": 865,
+    "isNatural": true
+  },
+  {
+    "itemId": 51,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 2574,
+    "sellPrice": 900,
+    "isNatural": true
+  },
+  {
+    "itemId": 51,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 2673,
+    "sellPrice": 935,
+    "isNatural": false
+  },
+  {
+    "itemId": 51,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1800,
+    "sellPrice": 630,
+    "isNatural": false
+  },
+  {
+    "itemId": 51,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1890,
+    "sellPrice": 661,
+    "isNatural": false
+  },
+  {
+    "itemId": 51,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 198,
+    "sellPrice": 693,
+    "isNatural": false
+  },
+  {
+    "itemId": 51,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 2070,
+    "sellPrice": 724,
+    "isNatural": false
+  },
+  {
+    "itemId": 51,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 2160,
+    "sellPrice": 756,
+    "isNatural": true
+  },
+  {
+    "itemId": 51,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 2250,
+    "sellPrice": 787,
+    "isNatural": true
+  },
+  {
+    "itemId": 51,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 2340,
+    "sellPrice": 819,
+    "isNatural": true
+  },
+  {
+    "itemId": 51,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 2430,
+    "sellPrice": 850,
+    "isNatural": false
+  },
+  {
+    "itemId": 51,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 1440,
+    "sellPrice": 504,
+    "isNatural": false
+  },
+  {
+    "itemId": 51,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 1512,
+    "sellPrice": 528,
+    "isNatural": false
+  },
+  {
+    "itemId": 51,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 1584,
+    "sellPrice": 554,
+    "isNatural": false
+  },
+  {
+    "itemId": 51,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 1656,
+    "sellPrice": 579,
+    "isNatural": false
+  },
+  {
+    "itemId": 51,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 1728,
+    "sellPrice": 604,
+    "isNatural": true
+  },
+  {
+    "itemId": 51,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1800,
+    "sellPrice": 629,
+    "isNatural": true
+  },
+  {
+    "itemId": 51,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 1872,
+    "sellPrice": 655,
+    "isNatural": true
+  },
+  {
+    "itemId": 51,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 1944,
+    "sellPrice": 680,
+    "isNatural": false
+  },
+  {
+    "itemId": 52,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1980,
+    "sellPrice": 693,
+    "isNatural": false
+  },
+  {
+    "itemId": 52,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 2079,
+    "sellPrice": 727,
+    "isNatural": false
+  },
+  {
+    "itemId": 52,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 2178,
+    "sellPrice": 762,
+    "isNatural": false
+  },
+  {
+    "itemId": 52,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 2277,
+    "sellPrice": 796,
+    "isNatural": false
+  },
+  {
+    "itemId": 52,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 2376,
+    "sellPrice": 831,
+    "isNatural": true
+  },
+  {
+    "itemId": 52,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 2475,
+    "sellPrice": 865,
+    "isNatural": true
+  },
+  {
+    "itemId": 52,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 2574,
+    "sellPrice": 900,
+    "isNatural": true
+  },
+  {
+    "itemId": 52,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 2673,
+    "sellPrice": 935,
+    "isNatural": false
+  },
+  {
+    "itemId": 52,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1800,
+    "sellPrice": 630,
+    "isNatural": false
+  },
+  {
+    "itemId": 52,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1890,
+    "sellPrice": 661,
+    "isNatural": false
+  },
+  {
+    "itemId": 52,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 198,
+    "sellPrice": 693,
+    "isNatural": false
+  },
+  {
+    "itemId": 52,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 2070,
+    "sellPrice": 724,
+    "isNatural": false
+  },
+  {
+    "itemId": 52,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 2160,
+    "sellPrice": 756,
+    "isNatural": true
+  },
+  {
+    "itemId": 52,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 2250,
+    "sellPrice": 787,
+    "isNatural": true
+  },
+  {
+    "itemId": 52,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 2340,
+    "sellPrice": 819,
+    "isNatural": true
+  },
+  {
+    "itemId": 52,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 2430,
+    "sellPrice": 850,
+    "isNatural": false
+  },
+  {
+    "itemId": 52,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 1440,
+    "sellPrice": 504,
+    "isNatural": false
+  },
+  {
+    "itemId": 52,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 1512,
+    "sellPrice": 528,
+    "isNatural": false
+  },
+  {
+    "itemId": 52,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 1584,
+    "sellPrice": 554,
+    "isNatural": false
+  },
+  {
+    "itemId": 52,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 1656,
+    "sellPrice": 579,
+    "isNatural": false
+  },
+  {
+    "itemId": 52,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 1728,
+    "sellPrice": 604,
+    "isNatural": true
+  },
+  {
+    "itemId": 52,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1800,
+    "sellPrice": 629,
+    "isNatural": true
+  },
+  {
+    "itemId": 52,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 1872,
+    "sellPrice": 655,
+    "isNatural": true
+  },
+  {
+    "itemId": 52,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 1944,
+    "sellPrice": 680,
+    "isNatural": false
+  },
+  {
+    "itemId": 53,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1980,
+    "sellPrice": 693,
+    "isNatural": false
+  },
+  {
+    "itemId": 53,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 2079,
+    "sellPrice": 727,
+    "isNatural": false
+  },
+  {
+    "itemId": 53,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 2178,
+    "sellPrice": 762,
+    "isNatural": false
+  },
+  {
+    "itemId": 53,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 2277,
+    "sellPrice": 796,
+    "isNatural": false
+  },
+  {
+    "itemId": 53,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 2376,
+    "sellPrice": 831,
+    "isNatural": true
+  },
+  {
+    "itemId": 53,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 2475,
+    "sellPrice": 865,
+    "isNatural": true
+  },
+  {
+    "itemId": 53,
+    "size": 6,
+    "state": 1,
+    "buyPrice": 2574,
+    "sellPrice": 900,
+    "isNatural": true
+  },
+  {
+    "itemId": 53,
+    "size": 7,
+    "state": 1,
+    "buyPrice": 2673,
+    "sellPrice": 935,
+    "isNatural": false
+  },
+  {
+    "itemId": 53,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1800,
+    "sellPrice": 630,
+    "isNatural": false
+  },
+  {
+    "itemId": 53,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1890,
+    "sellPrice": 661,
+    "isNatural": false
+  },
+  {
+    "itemId": 53,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 198,
+    "sellPrice": 693,
+    "isNatural": false
+  },
+  {
+    "itemId": 53,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 2070,
+    "sellPrice": 724,
+    "isNatural": false
+  },
+  {
+    "itemId": 53,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 2160,
+    "sellPrice": 756,
+    "isNatural": true
+  },
+  {
+    "itemId": 53,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 2250,
+    "sellPrice": 787,
+    "isNatural": true
+  },
+  {
+    "itemId": 53,
+    "size": 6,
+    "state": 0,
+    "buyPrice": 2340,
+    "sellPrice": 819,
+    "isNatural": true
+  },
+  {
+    "itemId": 53,
+    "size": 7,
+    "state": 0,
+    "buyPrice": 2430,
+    "sellPrice": 850,
+    "isNatural": false
+  },
+  {
+    "itemId": 53,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 1440,
+    "sellPrice": 504,
+    "isNatural": false
+  },
+  {
+    "itemId": 53,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 1512,
+    "sellPrice": 528,
+    "isNatural": false
+  },
+  {
+    "itemId": 53,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 1584,
+    "sellPrice": 554,
+    "isNatural": false
+  },
+  {
+    "itemId": 53,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 1656,
+    "sellPrice": 579,
+    "isNatural": false
+  },
+  {
+    "itemId": 53,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 1728,
+    "sellPrice": 604,
+    "isNatural": true
+  },
+  {
+    "itemId": 53,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1800,
+    "sellPrice": 629,
+    "isNatural": true
+  },
+  {
+    "itemId": 53,
+    "size": 6,
+    "state": -1,
+    "buyPrice": 1872,
+    "sellPrice": 655,
+    "isNatural": true
+  },
+  {
+    "itemId": 53,
+    "size": 7,
+    "state": -1,
+    "buyPrice": 1944,
+    "sellPrice": 680,
+    "isNatural": false
+  },
+  {
+    "itemId": 54,
+    "size": null,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": null
+  },
+  {
+    "itemId": 55,
+    "size": null,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": null
+  },
+  {
+    "itemId": 56,
+    "size": null,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": null
+  },
+  {
+    "itemId": 57,
+    "size": null,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": null
+  },
+  {
+    "itemId": 58,
+    "size": null,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": null
+  },
+  {
+    "itemId": 59,
+    "size": null,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": null
+  },
+  {
+    "itemId": 60,
+    "size": null,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": null
+  },
+  {
+    "itemId": 61,
+    "size": null,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": null
+  },
+  {
+    "itemId": 62,
+    "size": null,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": null
+  },
+  {
+    "itemId": 63,
+    "size": null,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": null
+  },
+  {
+    "itemId": 64,
+    "size": null,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": null
+  },
+  {
+    "itemId": 65,
+    "size": null,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": null
+  },
+  {
+    "itemId": 66,
+    "size": null,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": null
+  },
+  {
+    "itemId": 67,
+    "size": null,
+    "state": 1,
+    "buyPrice": 110,
+    "sellPrice": 38,
+    "isNatural": null
+  },
+  {
+    "itemId": 67,
+    "size": null,
+    "state": 0,
+    "buyPrice": 100,
+    "sellPrice": 35,
+    "isNatural": null
+  },
+  {
+    "itemId": 67,
+    "size": null,
+    "state": -1,
+    "buyPrice": 80,
+    "sellPrice": 28,
+    "isNatural": null
+  },
+  {
+    "itemId": 68,
+    "size": null,
+    "state": 1,
+    "buyPrice": 110,
+    "sellPrice": 38,
+    "isNatural": null
+  },
+  {
+    "itemId": 68,
+    "size": null,
+    "state": 0,
+    "buyPrice": 100,
+    "sellPrice": 35,
+    "isNatural": null
+  },
+  {
+    "itemId": 68,
+    "size": null,
+    "state": -1,
+    "buyPrice": 80,
+    "sellPrice": 28,
+    "isNatural": null
+  },
+  {
+    "itemId": 69,
+    "size": null,
+    "state": 1,
+    "buyPrice": 110,
+    "sellPrice": 38,
+    "isNatural": null
+  },
+  {
+    "itemId": 69,
+    "size": null,
+    "state": 0,
+    "buyPrice": 100,
+    "sellPrice": 35,
+    "isNatural": null
+  },
+  {
+    "itemId": 69,
+    "size": null,
+    "state": -1,
+    "buyPrice": 80,
+    "sellPrice": 28,
+    "isNatural": null
+  },
+  {
+    "itemId": 70,
+    "size": null,
+    "state": 1,
+    "buyPrice": 110,
+    "sellPrice": 38,
+    "isNatural": null
+  },
+  {
+    "itemId": 70,
+    "size": null,
+    "state": 0,
+    "buyPrice": 100,
+    "sellPrice": 35,
+    "isNatural": null
+  },
+  {
+    "itemId": 70,
+    "size": null,
+    "state": -1,
+    "buyPrice": 80,
+    "sellPrice": 28,
+    "isNatural": null
+  },
+  {
+    "itemId": 71,
+    "size": null,
+    "state": 1,
+    "buyPrice": 110,
+    "sellPrice": 38,
+    "isNatural": null
+  },
+  {
+    "itemId": 71,
+    "size": null,
+    "state": 0,
+    "buyPrice": 100,
+    "sellPrice": 35,
+    "isNatural": null
+  },
+  {
+    "itemId": 71,
+    "size": null,
+    "state": -1,
+    "buyPrice": 80,
+    "sellPrice": 28,
+    "isNatural": null
+  },
+  {
+    "itemId": 72,
+    "size": null,
+    "state": 1,
+    "buyPrice": 220,
+    "sellPrice": 77,
+    "isNatural": null
+  },
+  {
+    "itemId": 72,
+    "size": null,
+    "state": 0,
+    "buyPrice": 200,
+    "sellPrice": 70,
+    "isNatural": null
+  },
+  {
+    "itemId": 72,
+    "size": null,
+    "state": -1,
+    "buyPrice": 160,
+    "sellPrice": 56,
+    "isNatural": null
+  },
+  {
+    "itemId": 73,
+    "size": null,
+    "state": 1,
+    "buyPrice": 330,
+    "sellPrice": 115,
+    "isNatural": null
+  },
+  {
+    "itemId": 73,
+    "size": null,
+    "state": 0,
+    "buyPrice": 300,
+    "sellPrice": 105,
+    "isNatural": null
+  },
+  {
+    "itemId": 73,
+    "size": null,
+    "state": -1,
+    "buyPrice": 240,
+    "sellPrice": 84,
+    "isNatural": null
+  },
+  {
+    "itemId": 74,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 74,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 74,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 75,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 75,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 75,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 76,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 76,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 76,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 77,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 77,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 77,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 78,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 78,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 78,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 79,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 79,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 79,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 80,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 80,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 80,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 81,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 81,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 81,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 82,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 82,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 82,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 83,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 83,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 83,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 84,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 84,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 84,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 85,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 85,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 85,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 86,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 86,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 86,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 87,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 87,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 87,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 88,
+    "size": null,
+    "state": 1,
+    "buyPrice": 880,
+    "sellPrice": 908,
+    "isNatural": null
+  },
+  {
+    "itemId": 88,
+    "size": null,
+    "state": 0,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 88,
+    "size": null,
+    "state": -1,
+    "buyPrice": 640,
+    "sellPrice": 224,
+    "isNatural": null
+  },
+  {
+    "itemId": 89,
+    "size": null,
+    "state": 1,
+    "buyPrice": 880,
+    "sellPrice": 908,
+    "isNatural": null
+  },
+  {
+    "itemId": 89,
+    "size": null,
+    "state": 0,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 89,
+    "size": null,
+    "state": -1,
+    "buyPrice": 640,
+    "sellPrice": 224,
+    "isNatural": null
+  },
+  {
+    "itemId": 90,
+    "size": null,
+    "state": 1,
+    "buyPrice": 880,
+    "sellPrice": 908,
+    "isNatural": null
+  },
+  {
+    "itemId": 90,
+    "size": null,
+    "state": 0,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 90,
+    "size": null,
+    "state": -1,
+    "buyPrice": 640,
+    "sellPrice": 224,
+    "isNatural": null
+  },
+  {
+    "itemId": 91,
+    "size": null,
+    "state": 1,
+    "buyPrice": 880,
+    "sellPrice": 908,
+    "isNatural": null
+  },
+  {
+    "itemId": 91,
+    "size": null,
+    "state": 0,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 91,
+    "size": null,
+    "state": -1,
+    "buyPrice": 640,
+    "sellPrice": 224,
+    "isNatural": null
+  },
+  {
+    "itemId": 92,
+    "size": null,
+    "state": 1,
+    "buyPrice": 880,
+    "sellPrice": 908,
+    "isNatural": null
+  },
+  {
+    "itemId": 92,
+    "size": null,
+    "state": 0,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 92,
+    "size": null,
+    "state": -1,
+    "buyPrice": 640,
+    "sellPrice": 224,
+    "isNatural": null
+  },
+  {
+    "itemId": 93,
+    "size": null,
+    "state": 1,
+    "buyPrice": 880,
+    "sellPrice": 908,
+    "isNatural": null
+  },
+  {
+    "itemId": 93,
+    "size": null,
+    "state": 0,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 93,
+    "size": null,
+    "state": -1,
+    "buyPrice": 640,
+    "sellPrice": 224,
+    "isNatural": null
+  },
+  {
+    "itemId": 94,
+    "size": null,
+    "state": 1,
+    "buyPrice": 880,
+    "sellPrice": 908,
+    "isNatural": null
+  },
+  {
+    "itemId": 94,
+    "size": null,
+    "state": 0,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 94,
+    "size": null,
+    "state": -1,
+    "buyPrice": 640,
+    "sellPrice": 224,
+    "isNatural": null
+  },
+  {
+    "itemId": 95,
+    "size": null,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": null
+  },
+  {
+    "itemId": 95,
+    "size": null,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": null
+  },
+  {
+    "itemId": 95,
+    "size": null,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 96,
+    "size": null,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": null
+  },
+  {
+    "itemId": 96,
+    "size": null,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": null
+  },
+  {
+    "itemId": 96,
+    "size": null,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 97,
+    "size": null,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": null
+  },
+  {
+    "itemId": 97,
+    "size": null,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": null
+  },
+  {
+    "itemId": 97,
+    "size": null,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 98,
+    "size": null,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": null
+  },
+  {
+    "itemId": 98,
+    "size": null,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": null
+  },
+  {
+    "itemId": 98,
+    "size": null,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 99,
+    "size": null,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": null
+  },
+  {
+    "itemId": 99,
+    "size": null,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": null
+  },
+  {
+    "itemId": 99,
+    "size": null,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 100,
+    "size": null,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": null
+  },
+  {
+    "itemId": 100,
+    "size": null,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": null
+  },
+  {
+    "itemId": 100,
+    "size": null,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 101,
+    "size": null,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": null
+  },
+  {
+    "itemId": 101,
+    "size": null,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": null
+  },
+  {
+    "itemId": 101,
+    "size": null,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 102,
+    "size": null,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": null
+  },
+  {
+    "itemId": 102,
+    "size": null,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": null
+  },
+  {
+    "itemId": 102,
+    "size": null,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 103,
+    "size": null,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": null
+  },
+  {
+    "itemId": 103,
+    "size": null,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": null
+  },
+  {
+    "itemId": 103,
+    "size": null,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 104,
+    "size": null,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": null
+  },
+  {
+    "itemId": 104,
+    "size": null,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": null
+  },
+  {
+    "itemId": 104,
+    "size": null,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 105,
+    "size": null,
+    "state": 1,
+    "buyPrice": 3300,
+    "sellPrice": 1155,
+    "isNatural": null
+  },
+  {
+    "itemId": 105,
+    "size": null,
+    "state": 0,
+    "buyPrice": 3000,
+    "sellPrice": 1050,
+    "isNatural": null
+  },
+  {
+    "itemId": 105,
+    "size": null,
+    "state": -1,
+    "buyPrice": 2400,
+    "sellPrice": 840,
+    "isNatural": null
+  },
+  {
+    "itemId": 106,
+    "size": null,
+    "state": 1,
+    "buyPrice": 3300,
+    "sellPrice": 1155,
+    "isNatural": null
+  },
+  {
+    "itemId": 106,
+    "size": null,
+    "state": 0,
+    "buyPrice": 3000,
+    "sellPrice": 1050,
+    "isNatural": null
+  },
+  {
+    "itemId": 106,
+    "size": null,
+    "state": -1,
+    "buyPrice": 2400,
+    "sellPrice": 840,
+    "isNatural": null
+  },
+  {
+    "itemId": 107,
+    "size": null,
+    "state": 1,
+    "buyPrice": 3300,
+    "sellPrice": 1155,
+    "isNatural": null
+  },
+  {
+    "itemId": 107,
+    "size": null,
+    "state": 0,
+    "buyPrice": 3000,
+    "sellPrice": 1050,
+    "isNatural": null
+  },
+  {
+    "itemId": 107,
+    "size": null,
+    "state": -1,
+    "buyPrice": 2400,
+    "sellPrice": 840,
+    "isNatural": null
+  },
+  {
+    "itemId": 108,
+    "size": null,
+    "state": 1,
+    "buyPrice": 5500,
+    "sellPrice": 1925,
+    "isNatural": null
+  },
+  {
+    "itemId": 108,
+    "size": null,
+    "state": 0,
+    "buyPrice": 5000,
+    "sellPrice": 1750,
+    "isNatural": null
+  },
+  {
+    "itemId": 108,
+    "size": null,
+    "state": -1,
+    "buyPrice": 4000,
+    "sellPrice": 1400,
+    "isNatural": null
+  },
+  {
+    "itemId": 109,
+    "size": null,
+    "state": 1,
+    "buyPrice": 11000,
+    "sellPrice": 3850,
+    "isNatural": null
+  },
+  {
+    "itemId": 109,
+    "size": null,
+    "state": 0,
+    "buyPrice": 10000,
+    "sellPrice": 3500,
+    "isNatural": null
+  },
+  {
+    "itemId": 109,
+    "size": null,
+    "state": -1,
+    "buyPrice": 8000,
+    "sellPrice": 2800,
+    "isNatural": null
+  },
+  {
+    "itemId": 110,
+    "size": null,
+    "state": 1,
+    "buyPrice": 55,
+    "sellPrice": 18,
+    "isNatural": null
+  },
+  {
+    "itemId": 110,
+    "size": null,
+    "state": 0,
+    "buyPrice": 50,
+    "sellPrice": 17,
+    "isNatural": null
+  },
+  {
+    "itemId": 110,
+    "size": null,
+    "state": -1,
+    "buyPrice": 40,
+    "sellPrice": 14,
+    "isNatural": null
+  },
+  {
+    "itemId": 111,
+    "size": null,
+    "state": 1,
+    "buyPrice": 55,
+    "sellPrice": 18,
+    "isNatural": null
+  },
+  {
+    "itemId": 111,
+    "size": null,
+    "state": 0,
+    "buyPrice": 50,
+    "sellPrice": 17,
+    "isNatural": null
+  },
+  {
+    "itemId": 111,
+    "size": null,
+    "state": -1,
+    "buyPrice": 40,
+    "sellPrice": 14,
+    "isNatural": null
+  },
+  {
+    "itemId": 112,
+    "size": null,
+    "state": 1,
+    "buyPrice": 110,
+    "sellPrice": 38,
+    "isNatural": null
+  },
+  {
+    "itemId": 112,
+    "size": null,
+    "state": 0,
+    "buyPrice": 100,
+    "sellPrice": 35,
+    "isNatural": null
+  },
+  {
+    "itemId": 112,
+    "size": null,
+    "state": -1,
+    "buyPrice": 80,
+    "sellPrice": 28,
+    "isNatural": null
+  },
+  {
+    "itemId": 113,
+    "size": null,
+    "state": 1,
+    "buyPrice": 110,
+    "sellPrice": 38,
+    "isNatural": null
+  },
+  {
+    "itemId": 113,
+    "size": null,
+    "state": 0,
+    "buyPrice": 100,
+    "sellPrice": 35,
+    "isNatural": null
+  },
+  {
+    "itemId": 113,
+    "size": null,
+    "state": -1,
+    "buyPrice": 80,
+    "sellPrice": 28,
+    "isNatural": null
+  },
+  {
+    "itemId": 114,
+    "size": null,
+    "state": 1,
+    "buyPrice": 110,
+    "sellPrice": 38,
+    "isNatural": null
+  },
+  {
+    "itemId": 114,
+    "size": null,
+    "state": 0,
+    "buyPrice": 100,
+    "sellPrice": 35,
+    "isNatural": null
+  },
+  {
+    "itemId": 114,
+    "size": null,
+    "state": -1,
+    "buyPrice": 80,
+    "sellPrice": 28,
+    "isNatural": null
+  },
+  {
+    "itemId": 115,
+    "size": null,
+    "state": 1,
+    "buyPrice": 110,
+    "sellPrice": 38,
+    "isNatural": null
+  },
+  {
+    "itemId": 115,
+    "size": null,
+    "state": 0,
+    "buyPrice": 100,
+    "sellPrice": 35,
+    "isNatural": null
+  },
+  {
+    "itemId": 115,
+    "size": null,
+    "state": -1,
+    "buyPrice": 80,
+    "sellPrice": 28,
+    "isNatural": null
+  },
+  {
+    "itemId": 116,
+    "size": null,
+    "state": 1,
+    "buyPrice": 220,
+    "sellPrice": 77,
+    "isNatural": null
+  },
+  {
+    "itemId": 116,
+    "size": null,
+    "state": 0,
+    "buyPrice": 200,
+    "sellPrice": 70,
+    "isNatural": null
+  },
+  {
+    "itemId": 116,
+    "size": null,
+    "state": -1,
+    "buyPrice": 160,
+    "sellPrice": 56,
+    "isNatural": null
+  },
+  {
+    "itemId": 117,
+    "size": null,
+    "state": 1,
+    "buyPrice": 330,
+    "sellPrice": 115,
+    "isNatural": null
+  },
+  {
+    "itemId": 117,
+    "size": null,
+    "state": 0,
+    "buyPrice": 300,
+    "sellPrice": 105,
+    "isNatural": null
+  },
+  {
+    "itemId": 117,
+    "size": null,
+    "state": -1,
+    "buyPrice": 240,
+    "sellPrice": 84,
+    "isNatural": null
+  },
+  {
+    "itemId": 118,
+    "size": null,
+    "state": 1,
+    "buyPrice": 330,
+    "sellPrice": 115,
+    "isNatural": null
+  },
+  {
+    "itemId": 118,
+    "size": null,
+    "state": 0,
+    "buyPrice": 300,
+    "sellPrice": 105,
+    "isNatural": null
+  },
+  {
+    "itemId": 118,
+    "size": null,
+    "state": -1,
+    "buyPrice": 240,
+    "sellPrice": 84,
+    "isNatural": null
+  },
+  {
+    "itemId": 119,
+    "size": null,
+    "state": 1,
+    "buyPrice": 330,
+    "sellPrice": 115,
+    "isNatural": null
+  },
+  {
+    "itemId": 119,
+    "size": null,
+    "state": 0,
+    "buyPrice": 300,
+    "sellPrice": 105,
+    "isNatural": null
+  },
+  {
+    "itemId": 119,
+    "size": null,
+    "state": -1,
+    "buyPrice": 240,
+    "sellPrice": 84,
+    "isNatural": null
+  },
+  {
+    "itemId": 120,
+    "size": null,
+    "state": 1,
+    "buyPrice": 330,
+    "sellPrice": 115,
+    "isNatural": null
+  },
+  {
+    "itemId": 120,
+    "size": null,
+    "state": 0,
+    "buyPrice": 300,
+    "sellPrice": 105,
+    "isNatural": null
+  },
+  {
+    "itemId": 120,
+    "size": null,
+    "state": -1,
+    "buyPrice": 240,
+    "sellPrice": 84,
+    "isNatural": null
+  },
+  {
+    "itemId": 121,
+    "size": null,
+    "state": 1,
+    "buyPrice": 330,
+    "sellPrice": 115,
+    "isNatural": null
+  },
+  {
+    "itemId": 121,
+    "size": null,
+    "state": 0,
+    "buyPrice": 300,
+    "sellPrice": 105,
+    "isNatural": null
+  },
+  {
+    "itemId": 121,
+    "size": null,
+    "state": -1,
+    "buyPrice": 240,
+    "sellPrice": 84,
+    "isNatural": null
+  },
+  {
+    "itemId": 122,
+    "size": null,
+    "state": 1,
+    "buyPrice": 330,
+    "sellPrice": 115,
+    "isNatural": null
+  },
+  {
+    "itemId": 122,
+    "size": null,
+    "state": 0,
+    "buyPrice": 300,
+    "sellPrice": 105,
+    "isNatural": null
+  },
+  {
+    "itemId": 122,
+    "size": null,
+    "state": -1,
+    "buyPrice": 240,
+    "sellPrice": 84,
+    "isNatural": null
+  },
+  {
+    "itemId": 123,
+    "size": null,
+    "state": 1,
+    "buyPrice": 330,
+    "sellPrice": 115,
+    "isNatural": null
+  },
+  {
+    "itemId": 123,
+    "size": null,
+    "state": 0,
+    "buyPrice": 300,
+    "sellPrice": 105,
+    "isNatural": null
+  },
+  {
+    "itemId": 123,
+    "size": null,
+    "state": -1,
+    "buyPrice": 240,
+    "sellPrice": 84,
+    "isNatural": null
+  },
+  {
+    "itemId": 124,
+    "size": null,
+    "state": 1,
+    "buyPrice": 330,
+    "sellPrice": 115,
+    "isNatural": null
+  },
+  {
+    "itemId": 124,
+    "size": null,
+    "state": 0,
+    "buyPrice": 300,
+    "sellPrice": 105,
+    "isNatural": null
+  },
+  {
+    "itemId": 124,
+    "size": null,
+    "state": -1,
+    "buyPrice": 240,
+    "sellPrice": 84,
+    "isNatural": null
+  },
+  {
+    "itemId": 125,
+    "size": null,
+    "state": 1,
+    "buyPrice": 330,
+    "sellPrice": 115,
+    "isNatural": null
+  },
+  {
+    "itemId": 125,
+    "size": null,
+    "state": 0,
+    "buyPrice": 300,
+    "sellPrice": 105,
+    "isNatural": null
+  },
+  {
+    "itemId": 125,
+    "size": null,
+    "state": -1,
+    "buyPrice": 240,
+    "sellPrice": 84,
+    "isNatural": null
+  },
+  {
+    "itemId": 126,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 126,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 126,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 127,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 127,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 127,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 128,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 128,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 128,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 129,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 129,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 129,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 130,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 130,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 130,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 131,
+    "size": null,
+    "state": 1,
+    "buyPrice": 550,
+    "sellPrice": 192,
+    "isNatural": null
+  },
+  {
+    "itemId": 131,
+    "size": null,
+    "state": 0,
+    "buyPrice": 500,
+    "sellPrice": 175,
+    "isNatural": null
+  },
+  {
+    "itemId": 131,
+    "size": null,
+    "state": -1,
+    "buyPrice": 400,
+    "sellPrice": 140,
+    "isNatural": null
+  },
+  {
+    "itemId": 132,
+    "size": null,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": null
+  },
+  {
+    "itemId": 132,
+    "size": null,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": null
+  },
+  {
+    "itemId": 132,
+    "size": null,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 133,
+    "size": null,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": null
+  },
+  {
+    "itemId": 133,
+    "size": null,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": null
+  },
+  {
+    "itemId": 133,
+    "size": null,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": null
+  },
+  {
+    "itemId": 134,
+    "size": null,
+    "state": 1,
+    "buyPrice": 1650,
+    "sellPrice": 577,
+    "isNatural": null
+  },
+  {
+    "itemId": 134,
+    "size": null,
+    "state": 0,
+    "buyPrice": 1500,
+    "sellPrice": 525,
+    "isNatural": null
+  },
+  {
+    "itemId": 134,
+    "size": null,
+    "state": -1,
+    "buyPrice": 1200,
+    "sellPrice": 420,
+    "isNatural": null
+  },
+  {
+    "itemId": 135,
+    "size": null,
+    "state": 1,
+    "buyPrice": 1650,
+    "sellPrice": 577,
+    "isNatural": null
+  },
+  {
+    "itemId": 135,
+    "size": null,
+    "state": 0,
+    "buyPrice": 1500,
+    "sellPrice": 525,
+    "isNatural": null
+  },
+  {
+    "itemId": 135,
+    "size": null,
+    "state": -1,
+    "buyPrice": 1200,
+    "sellPrice": 420,
+    "isNatural": null
+  },
+  {
+    "itemId": 136,
+    "size": null,
+    "state": 1,
+    "buyPrice": 2200,
+    "sellPrice": 770,
+    "isNatural": null
+  },
+  {
+    "itemId": 136,
+    "size": null,
+    "state": 0,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "isNatural": null
+  },
+  {
+    "itemId": 136,
+    "size": null,
+    "state": -1,
+    "buyPrice": 1600,
+    "sellPrice": 560,
+    "isNatural": null
+  },
+  {
+    "itemId": 137,
+    "size": null,
+    "state": 1,
+    "buyPrice": 2200,
+    "sellPrice": 770,
+    "isNatural": null
+  },
+  {
+    "itemId": 137,
+    "size": null,
+    "state": 0,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "isNatural": null
+  },
+  {
+    "itemId": 137,
+    "size": null,
+    "state": -1,
+    "buyPrice": 1600,
+    "sellPrice": 560,
+    "isNatural": null
+  },
+  {
+    "itemId": 138,
+    "size": null,
+    "state": 1,
+    "buyPrice": 2200,
+    "sellPrice": 770,
+    "isNatural": null
+  },
+  {
+    "itemId": 138,
+    "size": null,
+    "state": 0,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "isNatural": null
+  },
+  {
+    "itemId": 138,
+    "size": null,
+    "state": -1,
+    "buyPrice": 1600,
+    "sellPrice": 560,
+    "isNatural": null
+  },
+  {
+    "itemId": 139,
+    "size": null,
+    "state": 1,
+    "buyPrice": 2200,
+    "sellPrice": 770,
+    "isNatural": null
+  },
+  {
+    "itemId": 139,
+    "size": null,
+    "state": 0,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "isNatural": null
+  },
+  {
+    "itemId": 139,
+    "size": null,
+    "state": -1,
+    "buyPrice": 1600,
+    "sellPrice": 560,
+    "isNatural": null
+  },
+  {
+    "itemId": 140,
+    "size": null,
+    "state": 1,
+    "buyPrice": 2200,
+    "sellPrice": 770,
+    "isNatural": null
+  },
+  {
+    "itemId": 140,
+    "size": null,
+    "state": 0,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "isNatural": null
+  },
+  {
+    "itemId": 140,
+    "size": null,
+    "state": -1,
+    "buyPrice": 1600,
+    "sellPrice": 560,
+    "isNatural": null
+  },
+  {
+    "itemId": 141,
+    "size": null,
+    "state": 1,
+    "buyPrice": 5500,
+    "sellPrice": 1925,
+    "isNatural": null
+  },
+  {
+    "itemId": 141,
+    "size": null,
+    "state": 0,
+    "buyPrice": 5000,
+    "sellPrice": 1750,
+    "isNatural": null
+  },
+  {
+    "itemId": 141,
+    "size": null,
+    "state": -1,
+    "buyPrice": 4000,
+    "sellPrice": 1400,
+    "isNatural": null
+  },
+  {
+    "itemId": 142,
+    "size": null,
+    "state": 1,
+    "buyPrice": 5500,
+    "sellPrice": 1925,
+    "isNatural": null
+  },
+  {
+    "itemId": 142,
+    "size": null,
+    "state": 0,
+    "buyPrice": 5000,
+    "sellPrice": 1750,
+    "isNatural": null
+  },
+  {
+    "itemId": 142,
+    "size": null,
+    "state": -1,
+    "buyPrice": 4000,
+    "sellPrice": 1400,
+    "isNatural": null
+  },
+  {
+    "itemId": 143,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 143,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 693,
+    "sellPrice": 242,
+    "isNatural": false
+  },
+  {
+    "itemId": 143,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 726,
+    "sellPrice": 254,
+    "isNatural": false
+  },
+  {
+    "itemId": 143,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 759,
+    "sellPrice": 265,
+    "isNatural": true
+  },
+  {
+    "itemId": 143,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 792,
+    "sellPrice": 277,
+    "isNatural": true
+  },
+  {
+    "itemId": 143,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 825,
+    "sellPrice": 288,
+    "isNatural": true
+  },
+  {
+    "itemId": 143,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": false
+  },
+  {
+    "itemId": 143,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 630,
+    "sellPrice": 220,
+    "isNatural": false
+  },
+  {
+    "itemId": 143,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 143,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 690,
+    "sellPrice": 241,
+    "isNatural": true
+  },
+  {
+    "itemId": 143,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": true
+  },
+  {
+    "itemId": 143,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 750,
+    "sellPrice": 262,
+    "isNatural": true
+  },
+  {
+    "itemId": 143,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 480,
+    "sellPrice": 168,
+    "isNatural": false
+  },
+  {
+    "itemId": 143,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 504,
+    "sellPrice": 176,
+    "isNatural": false
+  },
+  {
+    "itemId": 143,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 528,
+    "sellPrice": 184,
+    "isNatural": false
+  },
+  {
+    "itemId": 143,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 552,
+    "sellPrice": 192,
+    "isNatural": true
+  },
+  {
+    "itemId": 143,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 576,
+    "sellPrice": 201,
+    "isNatural": true
+  },
+  {
+    "itemId": 143,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 600,
+    "sellPrice": 209,
+    "isNatural": true
+  },
+  {
+    "itemId": 144,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 144,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 693,
+    "sellPrice": 242,
+    "isNatural": false
+  },
+  {
+    "itemId": 144,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 726,
+    "sellPrice": 254,
+    "isNatural": false
+  },
+  {
+    "itemId": 144,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 759,
+    "sellPrice": 265,
+    "isNatural": true
+  },
+  {
+    "itemId": 144,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 792,
+    "sellPrice": 277,
+    "isNatural": true
+  },
+  {
+    "itemId": 144,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 825,
+    "sellPrice": 288,
+    "isNatural": true
+  },
+  {
+    "itemId": 144,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": false
+  },
+  {
+    "itemId": 144,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 630,
+    "sellPrice": 220,
+    "isNatural": false
+  },
+  {
+    "itemId": 144,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 144,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 690,
+    "sellPrice": 241,
+    "isNatural": true
+  },
+  {
+    "itemId": 144,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": true
+  },
+  {
+    "itemId": 144,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 750,
+    "sellPrice": 262,
+    "isNatural": true
+  },
+  {
+    "itemId": 144,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 480,
+    "sellPrice": 168,
+    "isNatural": false
+  },
+  {
+    "itemId": 144,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 504,
+    "sellPrice": 176,
+    "isNatural": false
+  },
+  {
+    "itemId": 144,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 528,
+    "sellPrice": 184,
+    "isNatural": false
+  },
+  {
+    "itemId": 144,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 552,
+    "sellPrice": 192,
+    "isNatural": true
+  },
+  {
+    "itemId": 144,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 576,
+    "sellPrice": 201,
+    "isNatural": true
+  },
+  {
+    "itemId": 144,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 600,
+    "sellPrice": 209,
+    "isNatural": true
+  },
+  {
+    "itemId": 145,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 145,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 693,
+    "sellPrice": 242,
+    "isNatural": false
+  },
+  {
+    "itemId": 145,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 726,
+    "sellPrice": 254,
+    "isNatural": false
+  },
+  {
+    "itemId": 145,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 759,
+    "sellPrice": 265,
+    "isNatural": true
+  },
+  {
+    "itemId": 145,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 792,
+    "sellPrice": 277,
+    "isNatural": true
+  },
+  {
+    "itemId": 145,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 825,
+    "sellPrice": 288,
+    "isNatural": true
+  },
+  {
+    "itemId": 145,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": false
+  },
+  {
+    "itemId": 145,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 630,
+    "sellPrice": 220,
+    "isNatural": false
+  },
+  {
+    "itemId": 145,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 145,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 690,
+    "sellPrice": 241,
+    "isNatural": true
+  },
+  {
+    "itemId": 145,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": true
+  },
+  {
+    "itemId": 145,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 750,
+    "sellPrice": 262,
+    "isNatural": true
+  },
+  {
+    "itemId": 145,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 480,
+    "sellPrice": 168,
+    "isNatural": false
+  },
+  {
+    "itemId": 145,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 504,
+    "sellPrice": 176,
+    "isNatural": false
+  },
+  {
+    "itemId": 145,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 528,
+    "sellPrice": 184,
+    "isNatural": false
+  },
+  {
+    "itemId": 145,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 552,
+    "sellPrice": 192,
+    "isNatural": true
+  },
+  {
+    "itemId": 145,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 576,
+    "sellPrice": 201,
+    "isNatural": true
+  },
+  {
+    "itemId": 145,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 600,
+    "sellPrice": 209,
+    "isNatural": true
+  },
+  {
+    "itemId": 146,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 146,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 693,
+    "sellPrice": 242,
+    "isNatural": false
+  },
+  {
+    "itemId": 146,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 726,
+    "sellPrice": 254,
+    "isNatural": false
+  },
+  {
+    "itemId": 146,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 759,
+    "sellPrice": 265,
+    "isNatural": true
+  },
+  {
+    "itemId": 146,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 792,
+    "sellPrice": 277,
+    "isNatural": true
+  },
+  {
+    "itemId": 146,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 825,
+    "sellPrice": 288,
+    "isNatural": true
+  },
+  {
+    "itemId": 146,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": false
+  },
+  {
+    "itemId": 146,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 630,
+    "sellPrice": 220,
+    "isNatural": false
+  },
+  {
+    "itemId": 146,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 146,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 690,
+    "sellPrice": 241,
+    "isNatural": true
+  },
+  {
+    "itemId": 146,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": true
+  },
+  {
+    "itemId": 146,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 750,
+    "sellPrice": 262,
+    "isNatural": true
+  },
+  {
+    "itemId": 146,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 480,
+    "sellPrice": 168,
+    "isNatural": false
+  },
+  {
+    "itemId": 146,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 504,
+    "sellPrice": 176,
+    "isNatural": false
+  },
+  {
+    "itemId": 146,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 528,
+    "sellPrice": 184,
+    "isNatural": false
+  },
+  {
+    "itemId": 146,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 552,
+    "sellPrice": 192,
+    "isNatural": true
+  },
+  {
+    "itemId": 146,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 576,
+    "sellPrice": 201,
+    "isNatural": true
+  },
+  {
+    "itemId": 146,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 600,
+    "sellPrice": 209,
+    "isNatural": true
+  },
+  {
+    "itemId": 147,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 147,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 693,
+    "sellPrice": 242,
+    "isNatural": false
+  },
+  {
+    "itemId": 147,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 726,
+    "sellPrice": 254,
+    "isNatural": false
+  },
+  {
+    "itemId": 147,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 759,
+    "sellPrice": 265,
+    "isNatural": true
+  },
+  {
+    "itemId": 147,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 792,
+    "sellPrice": 277,
+    "isNatural": true
+  },
+  {
+    "itemId": 147,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 825,
+    "sellPrice": 288,
+    "isNatural": true
+  },
+  {
+    "itemId": 147,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 600,
+    "sellPrice": 210,
+    "isNatural": false
+  },
+  {
+    "itemId": 147,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 630,
+    "sellPrice": 220,
+    "isNatural": false
+  },
+  {
+    "itemId": 147,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 660,
+    "sellPrice": 231,
+    "isNatural": false
+  },
+  {
+    "itemId": 147,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 690,
+    "sellPrice": 241,
+    "isNatural": true
+  },
+  {
+    "itemId": 147,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 720,
+    "sellPrice": 252,
+    "isNatural": true
+  },
+  {
+    "itemId": 147,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 750,
+    "sellPrice": 262,
+    "isNatural": true
+  },
+  {
+    "itemId": 147,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 480,
+    "sellPrice": 168,
+    "isNatural": false
+  },
+  {
+    "itemId": 147,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 504,
+    "sellPrice": 176,
+    "isNatural": false
+  },
+  {
+    "itemId": 147,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 528,
+    "sellPrice": 184,
+    "isNatural": false
+  },
+  {
+    "itemId": 147,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 552,
+    "sellPrice": 192,
+    "isNatural": true
+  },
+  {
+    "itemId": 147,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 576,
+    "sellPrice": 201,
+    "isNatural": true
+  },
+  {
+    "itemId": 147,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 600,
+    "sellPrice": 209,
+    "isNatural": true
+  },
+  {
+    "itemId": 148,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": false
+  },
+  {
+    "itemId": 148,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1155,
+    "sellPrice": 403,
+    "isNatural": false
+  },
+  {
+    "itemId": 148,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1210,
+    "sellPrice": 423,
+    "isNatural": false
+  },
+  {
+    "itemId": 148,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1265,
+    "sellPrice": 442,
+    "isNatural": true
+  },
+  {
+    "itemId": 148,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1320,
+    "sellPrice": 462,
+    "isNatural": true
+  },
+  {
+    "itemId": 148,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 1375,
+    "sellPrice": 480,
+    "isNatural": true
+  },
+  {
+    "itemId": 148,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": false
+  },
+  {
+    "itemId": 148,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1050,
+    "sellPrice": 367,
+    "isNatural": false
+  },
+  {
+    "itemId": 148,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": false
+  },
+  {
+    "itemId": 148,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1150,
+    "sellPrice": 402,
+    "isNatural": true
+  },
+  {
+    "itemId": 148,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1200,
+    "sellPrice": 420,
+    "isNatural": true
+  },
+  {
+    "itemId": 148,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1250,
+    "sellPrice": 437,
+    "isNatural": true
+  },
+  {
+    "itemId": 148,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": false
+  },
+  {
+    "itemId": 148,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 840,
+    "sellPrice": 293,
+    "isNatural": false
+  },
+  {
+    "itemId": 148,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 880,
+    "sellPrice": 308,
+    "isNatural": false
+  },
+  {
+    "itemId": 148,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 920,
+    "sellPrice": 321,
+    "isNatural": true
+  },
+  {
+    "itemId": 148,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 960,
+    "sellPrice": 336,
+    "isNatural": true
+  },
+  {
+    "itemId": 148,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1000,
+    "sellPrice": 349,
+    "isNatural": true
+  },
+  {
+    "itemId": 149,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": false
+  },
+  {
+    "itemId": 149,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1155,
+    "sellPrice": 403,
+    "isNatural": false
+  },
+  {
+    "itemId": 149,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1210,
+    "sellPrice": 423,
+    "isNatural": false
+  },
+  {
+    "itemId": 149,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1265,
+    "sellPrice": 442,
+    "isNatural": true
+  },
+  {
+    "itemId": 149,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1320,
+    "sellPrice": 462,
+    "isNatural": true
+  },
+  {
+    "itemId": 149,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 1375,
+    "sellPrice": 480,
+    "isNatural": true
+  },
+  {
+    "itemId": 149,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": false
+  },
+  {
+    "itemId": 149,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1050,
+    "sellPrice": 367,
+    "isNatural": false
+  },
+  {
+    "itemId": 149,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": false
+  },
+  {
+    "itemId": 149,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1150,
+    "sellPrice": 402,
+    "isNatural": true
+  },
+  {
+    "itemId": 149,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1200,
+    "sellPrice": 420,
+    "isNatural": true
+  },
+  {
+    "itemId": 149,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1250,
+    "sellPrice": 437,
+    "isNatural": true
+  },
+  {
+    "itemId": 149,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": false
+  },
+  {
+    "itemId": 149,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 840,
+    "sellPrice": 293,
+    "isNatural": false
+  },
+  {
+    "itemId": 149,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 880,
+    "sellPrice": 308,
+    "isNatural": false
+  },
+  {
+    "itemId": 149,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 920,
+    "sellPrice": 321,
+    "isNatural": true
+  },
+  {
+    "itemId": 149,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 960,
+    "sellPrice": 336,
+    "isNatural": true
+  },
+  {
+    "itemId": 149,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1000,
+    "sellPrice": 349,
+    "isNatural": true
+  },
+  {
+    "itemId": 150,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": false
+  },
+  {
+    "itemId": 150,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1155,
+    "sellPrice": 403,
+    "isNatural": false
+  },
+  {
+    "itemId": 150,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1210,
+    "sellPrice": 423,
+    "isNatural": false
+  },
+  {
+    "itemId": 150,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1265,
+    "sellPrice": 442,
+    "isNatural": true
+  },
+  {
+    "itemId": 150,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1320,
+    "sellPrice": 462,
+    "isNatural": true
+  },
+  {
+    "itemId": 150,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 1375,
+    "sellPrice": 480,
+    "isNatural": true
+  },
+  {
+    "itemId": 150,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": false
+  },
+  {
+    "itemId": 150,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1050,
+    "sellPrice": 367,
+    "isNatural": false
+  },
+  {
+    "itemId": 150,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": false
+  },
+  {
+    "itemId": 150,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1150,
+    "sellPrice": 402,
+    "isNatural": true
+  },
+  {
+    "itemId": 150,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1200,
+    "sellPrice": 420,
+    "isNatural": true
+  },
+  {
+    "itemId": 150,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1250,
+    "sellPrice": 437,
+    "isNatural": true
+  },
+  {
+    "itemId": 150,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": false
+  },
+  {
+    "itemId": 150,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 840,
+    "sellPrice": 293,
+    "isNatural": false
+  },
+  {
+    "itemId": 150,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 880,
+    "sellPrice": 308,
+    "isNatural": false
+  },
+  {
+    "itemId": 150,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 920,
+    "sellPrice": 321,
+    "isNatural": true
+  },
+  {
+    "itemId": 150,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 960,
+    "sellPrice": 336,
+    "isNatural": true
+  },
+  {
+    "itemId": 150,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1000,
+    "sellPrice": 349,
+    "isNatural": true
+  },
+  {
+    "itemId": 151,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": false
+  },
+  {
+    "itemId": 151,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1155,
+    "sellPrice": 403,
+    "isNatural": false
+  },
+  {
+    "itemId": 151,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1210,
+    "sellPrice": 423,
+    "isNatural": false
+  },
+  {
+    "itemId": 151,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1265,
+    "sellPrice": 442,
+    "isNatural": true
+  },
+  {
+    "itemId": 151,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1320,
+    "sellPrice": 462,
+    "isNatural": true
+  },
+  {
+    "itemId": 151,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 1375,
+    "sellPrice": 480,
+    "isNatural": true
+  },
+  {
+    "itemId": 151,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": false
+  },
+  {
+    "itemId": 151,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1050,
+    "sellPrice": 367,
+    "isNatural": false
+  },
+  {
+    "itemId": 151,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": false
+  },
+  {
+    "itemId": 151,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1150,
+    "sellPrice": 402,
+    "isNatural": true
+  },
+  {
+    "itemId": 151,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1200,
+    "sellPrice": 420,
+    "isNatural": true
+  },
+  {
+    "itemId": 151,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1250,
+    "sellPrice": 437,
+    "isNatural": true
+  },
+  {
+    "itemId": 151,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": false
+  },
+  {
+    "itemId": 151,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 840,
+    "sellPrice": 293,
+    "isNatural": false
+  },
+  {
+    "itemId": 151,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 880,
+    "sellPrice": 308,
+    "isNatural": false
+  },
+  {
+    "itemId": 151,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 920,
+    "sellPrice": 321,
+    "isNatural": true
+  },
+  {
+    "itemId": 151,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 960,
+    "sellPrice": 336,
+    "isNatural": true
+  },
+  {
+    "itemId": 151,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1000,
+    "sellPrice": 349,
+    "isNatural": true
+  },
+  {
+    "itemId": 152,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": false
+  },
+  {
+    "itemId": 152,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1155,
+    "sellPrice": 403,
+    "isNatural": false
+  },
+  {
+    "itemId": 152,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1210,
+    "sellPrice": 423,
+    "isNatural": false
+  },
+  {
+    "itemId": 152,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1265,
+    "sellPrice": 442,
+    "isNatural": true
+  },
+  {
+    "itemId": 152,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1320,
+    "sellPrice": 462,
+    "isNatural": true
+  },
+  {
+    "itemId": 152,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 1375,
+    "sellPrice": 480,
+    "isNatural": true
+  },
+  {
+    "itemId": 152,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": false
+  },
+  {
+    "itemId": 152,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1050,
+    "sellPrice": 367,
+    "isNatural": false
+  },
+  {
+    "itemId": 152,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": false
+  },
+  {
+    "itemId": 152,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1150,
+    "sellPrice": 402,
+    "isNatural": true
+  },
+  {
+    "itemId": 152,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1200,
+    "sellPrice": 420,
+    "isNatural": true
+  },
+  {
+    "itemId": 152,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1250,
+    "sellPrice": 437,
+    "isNatural": true
+  },
+  {
+    "itemId": 152,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": false
+  },
+  {
+    "itemId": 152,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 840,
+    "sellPrice": 293,
+    "isNatural": false
+  },
+  {
+    "itemId": 152,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 880,
+    "sellPrice": 308,
+    "isNatural": false
+  },
+  {
+    "itemId": 152,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 920,
+    "sellPrice": 321,
+    "isNatural": true
+  },
+  {
+    "itemId": 152,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 960,
+    "sellPrice": 336,
+    "isNatural": true
+  },
+  {
+    "itemId": 152,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1000,
+    "sellPrice": 349,
+    "isNatural": true
+  },
+  {
+    "itemId": 153,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": false
+  },
+  {
+    "itemId": 153,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1155,
+    "sellPrice": 403,
+    "isNatural": false
+  },
+  {
+    "itemId": 153,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1210,
+    "sellPrice": 423,
+    "isNatural": true
+  },
+  {
+    "itemId": 153,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1265,
+    "sellPrice": 442,
+    "isNatural": true
+  },
+  {
+    "itemId": 153,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1320,
+    "sellPrice": 462,
+    "isNatural": true
+  },
+  {
+    "itemId": 153,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 1375,
+    "sellPrice": 480,
+    "isNatural": false
+  },
+  {
+    "itemId": 153,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": false
+  },
+  {
+    "itemId": 153,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1050,
+    "sellPrice": 367,
+    "isNatural": false
+  },
+  {
+    "itemId": 153,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": true
+  },
+  {
+    "itemId": 153,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1150,
+    "sellPrice": 402,
+    "isNatural": true
+  },
+  {
+    "itemId": 153,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1200,
+    "sellPrice": 420,
+    "isNatural": true
+  },
+  {
+    "itemId": 153,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1250,
+    "sellPrice": 437,
+    "isNatural": false
+  },
+  {
+    "itemId": 153,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": false
+  },
+  {
+    "itemId": 153,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 840,
+    "sellPrice": 293,
+    "isNatural": false
+  },
+  {
+    "itemId": 153,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 880,
+    "sellPrice": 308,
+    "isNatural": true
+  },
+  {
+    "itemId": 153,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 920,
+    "sellPrice": 321,
+    "isNatural": true
+  },
+  {
+    "itemId": 153,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 960,
+    "sellPrice": 336,
+    "isNatural": true
+  },
+  {
+    "itemId": 153,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1000,
+    "sellPrice": 349,
+    "isNatural": false
+  },
+  {
+    "itemId": 154,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": false
+  },
+  {
+    "itemId": 154,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1155,
+    "sellPrice": 403,
+    "isNatural": false
+  },
+  {
+    "itemId": 154,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1210,
+    "sellPrice": 423,
+    "isNatural": false
+  },
+  {
+    "itemId": 154,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 1265,
+    "sellPrice": 442,
+    "isNatural": true
+  },
+  {
+    "itemId": 154,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 1320,
+    "sellPrice": 462,
+    "isNatural": true
+  },
+  {
+    "itemId": 154,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 1375,
+    "sellPrice": 480,
+    "isNatural": true
+  },
+  {
+    "itemId": 154,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1000,
+    "sellPrice": 350,
+    "isNatural": false
+  },
+  {
+    "itemId": 154,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1050,
+    "sellPrice": 367,
+    "isNatural": false
+  },
+  {
+    "itemId": 154,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 1100,
+    "sellPrice": 385,
+    "isNatural": false
+  },
+  {
+    "itemId": 154,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1150,
+    "sellPrice": 402,
+    "isNatural": true
+  },
+  {
+    "itemId": 154,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1200,
+    "sellPrice": 420,
+    "isNatural": true
+  },
+  {
+    "itemId": 154,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 1250,
+    "sellPrice": 437,
+    "isNatural": true
+  },
+  {
+    "itemId": 154,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 800,
+    "sellPrice": 280,
+    "isNatural": false
+  },
+  {
+    "itemId": 154,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 840,
+    "sellPrice": 293,
+    "isNatural": false
+  },
+  {
+    "itemId": 154,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 880,
+    "sellPrice": 308,
+    "isNatural": false
+  },
+  {
+    "itemId": 154,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 920,
+    "sellPrice": 321,
+    "isNatural": true
+  },
+  {
+    "itemId": 154,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 960,
+    "sellPrice": 336,
+    "isNatural": true
+  },
+  {
+    "itemId": 154,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1000,
+    "sellPrice": 349,
+    "isNatural": true
+  },
+  {
+    "itemId": 155,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1760,
+    "sellPrice": 616,
+    "isNatural": false
+  },
+  {
+    "itemId": 155,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1848,
+    "sellPrice": 646,
+    "isNatural": false
+  },
+  {
+    "itemId": 155,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1936,
+    "sellPrice": 677,
+    "isNatural": true
+  },
+  {
+    "itemId": 155,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 2024,
+    "sellPrice": 708,
+    "isNatural": true
+  },
+  {
+    "itemId": 155,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 2112,
+    "sellPrice": 739,
+    "isNatural": true
+  },
+  {
+    "itemId": 155,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 2200,
+    "sellPrice": 770,
+    "isNatural": false
+  },
+  {
+    "itemId": 155,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1600,
+    "sellPrice": 560,
+    "isNatural": false
+  },
+  {
+    "itemId": 155,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1680,
+    "sellPrice": 588,
+    "isNatural": false
+  },
+  {
+    "itemId": 155,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 1760,
+    "sellPrice": 616,
+    "isNatural": true
+  },
+  {
+    "itemId": 155,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1840,
+    "sellPrice": 644,
+    "isNatural": true
+  },
+  {
+    "itemId": 155,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1920,
+    "sellPrice": 672,
+    "isNatural": true
+  },
+  {
+    "itemId": 155,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "isNatural": false
+  },
+  {
+    "itemId": 155,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 1280,
+    "sellPrice": 448,
+    "isNatural": false
+  },
+  {
+    "itemId": 155,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 1344,
+    "sellPrice": 470,
+    "isNatural": false
+  },
+  {
+    "itemId": 155,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 1408,
+    "sellPrice": 492,
+    "isNatural": true
+  },
+  {
+    "itemId": 155,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 1472,
+    "sellPrice": 515,
+    "isNatural": true
+  },
+  {
+    "itemId": 155,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 1536,
+    "sellPrice": 537,
+    "isNatural": true
+  },
+  {
+    "itemId": 155,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1600,
+    "sellPrice": 560,
+    "isNatural": false
+  },
+  {
+    "itemId": 156,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1760,
+    "sellPrice": 616,
+    "isNatural": false
+  },
+  {
+    "itemId": 156,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1848,
+    "sellPrice": 646,
+    "isNatural": false
+  },
+  {
+    "itemId": 156,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1936,
+    "sellPrice": 677,
+    "isNatural": true
+  },
+  {
+    "itemId": 156,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 2024,
+    "sellPrice": 708,
+    "isNatural": true
+  },
+  {
+    "itemId": 156,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 2112,
+    "sellPrice": 739,
+    "isNatural": true
+  },
+  {
+    "itemId": 156,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 2200,
+    "sellPrice": 770,
+    "isNatural": false
+  },
+  {
+    "itemId": 156,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1600,
+    "sellPrice": 560,
+    "isNatural": false
+  },
+  {
+    "itemId": 156,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1680,
+    "sellPrice": 588,
+    "isNatural": false
+  },
+  {
+    "itemId": 156,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 1760,
+    "sellPrice": 616,
+    "isNatural": true
+  },
+  {
+    "itemId": 156,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1840,
+    "sellPrice": 644,
+    "isNatural": true
+  },
+  {
+    "itemId": 156,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1920,
+    "sellPrice": 672,
+    "isNatural": true
+  },
+  {
+    "itemId": 156,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "isNatural": false
+  },
+  {
+    "itemId": 156,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 1280,
+    "sellPrice": 448,
+    "isNatural": false
+  },
+  {
+    "itemId": 156,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 1344,
+    "sellPrice": 470,
+    "isNatural": false
+  },
+  {
+    "itemId": 156,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 1408,
+    "sellPrice": 492,
+    "isNatural": true
+  },
+  {
+    "itemId": 156,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 1472,
+    "sellPrice": 515,
+    "isNatural": true
+  },
+  {
+    "itemId": 156,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 1536,
+    "sellPrice": 537,
+    "isNatural": true
+  },
+  {
+    "itemId": 156,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1600,
+    "sellPrice": 560,
+    "isNatural": false
+  },
+  {
+    "itemId": 157,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 1760,
+    "sellPrice": 616,
+    "isNatural": false
+  },
+  {
+    "itemId": 157,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 1848,
+    "sellPrice": 646,
+    "isNatural": false
+  },
+  {
+    "itemId": 157,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 1936,
+    "sellPrice": 677,
+    "isNatural": true
+  },
+  {
+    "itemId": 157,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 2024,
+    "sellPrice": 708,
+    "isNatural": true
+  },
+  {
+    "itemId": 157,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 2112,
+    "sellPrice": 739,
+    "isNatural": true
+  },
+  {
+    "itemId": 157,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 2200,
+    "sellPrice": 770,
+    "isNatural": false
+  },
+  {
+    "itemId": 157,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 1600,
+    "sellPrice": 560,
+    "isNatural": false
+  },
+  {
+    "itemId": 157,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 1680,
+    "sellPrice": 588,
+    "isNatural": false
+  },
+  {
+    "itemId": 157,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 1760,
+    "sellPrice": 616,
+    "isNatural": true
+  },
+  {
+    "itemId": 157,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 1840,
+    "sellPrice": 644,
+    "isNatural": true
+  },
+  {
+    "itemId": 157,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 1920,
+    "sellPrice": 672,
+    "isNatural": true
+  },
+  {
+    "itemId": 157,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "isNatural": false
+  },
+  {
+    "itemId": 157,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 1280,
+    "sellPrice": 448,
+    "isNatural": false
+  },
+  {
+    "itemId": 157,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 1344,
+    "sellPrice": 470,
+    "isNatural": false
+  },
+  {
+    "itemId": 157,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 1408,
+    "sellPrice": 492,
+    "isNatural": true
+  },
+  {
+    "itemId": 157,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 1472,
+    "sellPrice": 515,
+    "isNatural": true
+  },
+  {
+    "itemId": 157,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 1536,
+    "sellPrice": 537,
+    "isNatural": true
+  },
+  {
+    "itemId": 157,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 1600,
+    "sellPrice": 560,
+    "isNatural": false
+  },
+  {
+    "itemId": 158,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 2200,
+    "sellPrice": 770,
+    "isNatural": false
+  },
+  {
+    "itemId": 158,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 2310,
+    "sellPrice": 808,
+    "isNatural": false
+  },
+  {
+    "itemId": 158,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 2420,
+    "sellPrice": 847,
+    "isNatural": false
+  },
+  {
+    "itemId": 158,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 2530,
+    "sellPrice": 885,
+    "isNatural": true
+  },
+  {
+    "itemId": 158,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 2640,
+    "sellPrice": 924,
+    "isNatural": true
+  },
+  {
+    "itemId": 158,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 2750,
+    "sellPrice": 962,
+    "isNatural": true
+  },
+  {
+    "itemId": 158,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "isNatural": false
+  },
+  {
+    "itemId": 158,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 2100,
+    "sellPrice": 735,
+    "isNatural": false
+  },
+  {
+    "itemId": 158,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 2200,
+    "sellPrice": 770,
+    "isNatural": false
+  },
+  {
+    "itemId": 158,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 2300,
+    "sellPrice": 805,
+    "isNatural": true
+  },
+  {
+    "itemId": 158,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 2400,
+    "sellPrice": 840,
+    "isNatural": true
+  },
+  {
+    "itemId": 158,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 2500,
+    "sellPrice": 875,
+    "isNatural": true
+  },
+  {
+    "itemId": 158,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 1600,
+    "sellPrice": 560,
+    "isNatural": false
+  },
+  {
+    "itemId": 158,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 1680,
+    "sellPrice": 588,
+    "isNatural": false
+  },
+  {
+    "itemId": 158,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 1760,
+    "sellPrice": 616,
+    "isNatural": false
+  },
+  {
+    "itemId": 158,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 1840,
+    "sellPrice": 644,
+    "isNatural": true
+  },
+  {
+    "itemId": 158,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 1920,
+    "sellPrice": 672,
+    "isNatural": true
+  },
+  {
+    "itemId": 158,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "isNatural": true
+  },
+  {
+    "itemId": 159,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 2750,
+    "sellPrice": 962,
+    "isNatural": false
+  },
+  {
+    "itemId": 159,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 2887,
+    "sellPrice": 1009,
+    "isNatural": false
+  },
+  {
+    "itemId": 159,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 3025,
+    "sellPrice": 1058,
+    "isNatural": true
+  },
+  {
+    "itemId": 159,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 3162,
+    "sellPrice": 1106,
+    "isNatural": true
+  },
+  {
+    "itemId": 159,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 3300,
+    "sellPrice": 1155,
+    "isNatural": true
+  },
+  {
+    "itemId": 159,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 3437,
+    "sellPrice": 1202,
+    "isNatural": false
+  },
+  {
+    "itemId": 159,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 2500,
+    "sellPrice": 875,
+    "isNatural": false
+  },
+  {
+    "itemId": 159,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 2625,
+    "sellPrice": 918,
+    "isNatural": false
+  },
+  {
+    "itemId": 159,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 2750,
+    "sellPrice": 962,
+    "isNatural": true
+  },
+  {
+    "itemId": 159,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 2875,
+    "sellPrice": 1006,
+    "isNatural": true
+  },
+  {
+    "itemId": 159,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 3000,
+    "sellPrice": 1050,
+    "isNatural": true
+  },
+  {
+    "itemId": 159,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 3125,
+    "sellPrice": 1093,
+    "isNatural": false
+  },
+  {
+    "itemId": 159,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "isNatural": false
+  },
+  {
+    "itemId": 159,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 2100,
+    "sellPrice": 734,
+    "isNatural": false
+  },
+  {
+    "itemId": 159,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 2200,
+    "sellPrice": 769,
+    "isNatural": true
+  },
+  {
+    "itemId": 159,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 2300,
+    "sellPrice": 804,
+    "isNatural": true
+  },
+  {
+    "itemId": 159,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 2400,
+    "sellPrice": 840,
+    "isNatural": true
+  },
+  {
+    "itemId": 159,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 2500,
+    "sellPrice": 874,
+    "isNatural": false
+  },
+  {
+    "itemId": 160,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 2750,
+    "sellPrice": 962,
+    "isNatural": false
+  },
+  {
+    "itemId": 160,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 2887,
+    "sellPrice": 1009,
+    "isNatural": false
+  },
+  {
+    "itemId": 160,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 3025,
+    "sellPrice": 1058,
+    "isNatural": true
+  },
+  {
+    "itemId": 160,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 3162,
+    "sellPrice": 1106,
+    "isNatural": true
+  },
+  {
+    "itemId": 160,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 3300,
+    "sellPrice": 1155,
+    "isNatural": true
+  },
+  {
+    "itemId": 160,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 3437,
+    "sellPrice": 1202,
+    "isNatural": false
+  },
+  {
+    "itemId": 160,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 2500,
+    "sellPrice": 875,
+    "isNatural": false
+  },
+  {
+    "itemId": 160,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 2625,
+    "sellPrice": 918,
+    "isNatural": false
+  },
+  {
+    "itemId": 160,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 2750,
+    "sellPrice": 962,
+    "isNatural": true
+  },
+  {
+    "itemId": 160,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 2875,
+    "sellPrice": 1006,
+    "isNatural": true
+  },
+  {
+    "itemId": 160,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 3000,
+    "sellPrice": 1050,
+    "isNatural": true
+  },
+  {
+    "itemId": 160,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 3125,
+    "sellPrice": 1093,
+    "isNatural": false
+  },
+  {
+    "itemId": 160,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "isNatural": false
+  },
+  {
+    "itemId": 160,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 2100,
+    "sellPrice": 734,
+    "isNatural": false
+  },
+  {
+    "itemId": 160,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 2200,
+    "sellPrice": 769,
+    "isNatural": true
+  },
+  {
+    "itemId": 160,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 2300,
+    "sellPrice": 804,
+    "isNatural": true
+  },
+  {
+    "itemId": 160,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 2400,
+    "sellPrice": 840,
+    "isNatural": true
+  },
+  {
+    "itemId": 160,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 2500,
+    "sellPrice": 874,
+    "isNatural": false
+  },
+  {
+    "itemId": 161,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 2750,
+    "sellPrice": 962,
+    "isNatural": false
+  },
+  {
+    "itemId": 161,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 2887,
+    "sellPrice": 1009,
+    "isNatural": false
+  },
+  {
+    "itemId": 161,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 3025,
+    "sellPrice": 1058,
+    "isNatural": true
+  },
+  {
+    "itemId": 161,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 3162,
+    "sellPrice": 1106,
+    "isNatural": true
+  },
+  {
+    "itemId": 161,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 3300,
+    "sellPrice": 1155,
+    "isNatural": true
+  },
+  {
+    "itemId": 161,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 3437,
+    "sellPrice": 1202,
+    "isNatural": false
+  },
+  {
+    "itemId": 161,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 2500,
+    "sellPrice": 875,
+    "isNatural": false
+  },
+  {
+    "itemId": 161,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 2625,
+    "sellPrice": 918,
+    "isNatural": false
+  },
+  {
+    "itemId": 161,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 2750,
+    "sellPrice": 962,
+    "isNatural": true
+  },
+  {
+    "itemId": 161,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 2875,
+    "sellPrice": 1006,
+    "isNatural": true
+  },
+  {
+    "itemId": 161,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 3000,
+    "sellPrice": 1050,
+    "isNatural": true
+  },
+  {
+    "itemId": 161,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 3125,
+    "sellPrice": 1093,
+    "isNatural": false
+  },
+  {
+    "itemId": 161,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "isNatural": false
+  },
+  {
+    "itemId": 161,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 2100,
+    "sellPrice": 734,
+    "isNatural": false
+  },
+  {
+    "itemId": 161,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 2200,
+    "sellPrice": 769,
+    "isNatural": true
+  },
+  {
+    "itemId": 161,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 2300,
+    "sellPrice": 804,
+    "isNatural": true
+  },
+  {
+    "itemId": 161,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 2400,
+    "sellPrice": 840,
+    "isNatural": true
+  },
+  {
+    "itemId": 161,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 2500,
+    "sellPrice": 874,
+    "isNatural": false
+  },
+  {
+    "itemId": 162,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 2750,
+    "sellPrice": 962,
+    "isNatural": false
+  },
+  {
+    "itemId": 162,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 2887,
+    "sellPrice": 1009,
+    "isNatural": false
+  },
+  {
+    "itemId": 162,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 3025,
+    "sellPrice": 1058,
+    "isNatural": true
+  },
+  {
+    "itemId": 162,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 3162,
+    "sellPrice": 1106,
+    "isNatural": true
+  },
+  {
+    "itemId": 162,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 3300,
+    "sellPrice": 1155,
+    "isNatural": true
+  },
+  {
+    "itemId": 162,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 3437,
+    "sellPrice": 1202,
+    "isNatural": false
+  },
+  {
+    "itemId": 162,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 2500,
+    "sellPrice": 875,
+    "isNatural": false
+  },
+  {
+    "itemId": 162,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 2625,
+    "sellPrice": 918,
+    "isNatural": false
+  },
+  {
+    "itemId": 162,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 2750,
+    "sellPrice": 962,
+    "isNatural": true
+  },
+  {
+    "itemId": 162,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 2875,
+    "sellPrice": 1006,
+    "isNatural": true
+  },
+  {
+    "itemId": 162,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 3000,
+    "sellPrice": 1050,
+    "isNatural": true
+  },
+  {
+    "itemId": 162,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 3125,
+    "sellPrice": 1093,
+    "isNatural": false
+  },
+  {
+    "itemId": 162,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 2000,
+    "sellPrice": 700,
+    "isNatural": false
+  },
+  {
+    "itemId": 162,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 2100,
+    "sellPrice": 734,
+    "isNatural": false
+  },
+  {
+    "itemId": 162,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 2200,
+    "sellPrice": 769,
+    "isNatural": true
+  },
+  {
+    "itemId": 162,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 2300,
+    "sellPrice": 804,
+    "isNatural": true
+  },
+  {
+    "itemId": 162,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 2400,
+    "sellPrice": 840,
+    "isNatural": true
+  },
+  {
+    "itemId": 162,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 2500,
+    "sellPrice": 874,
+    "isNatural": false
+  },
+  {
+    "itemId": 163,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 3850,
+    "sellPrice": 1347,
+    "isNatural": false
+  },
+  {
+    "itemId": 163,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 4042,
+    "sellPrice": 1414,
+    "isNatural": false
+  },
+  {
+    "itemId": 163,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 4235,
+    "sellPrice": 1481,
+    "isNatural": false
+  },
+  {
+    "itemId": 163,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 4427,
+    "sellPrice": 1548,
+    "isNatural": true
+  },
+  {
+    "itemId": 163,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 4620,
+    "sellPrice": 1617,
+    "isNatural": true
+  },
+  {
+    "itemId": 163,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 4812,
+    "sellPrice": 1684,
+    "isNatural": true
+  },
+  {
+    "itemId": 163,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 3500,
+    "sellPrice": 1225,
+    "isNatural": false
+  },
+  {
+    "itemId": 163,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 3675,
+    "sellPrice": 1286,
+    "isNatural": false
+  },
+  {
+    "itemId": 163,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 3875,
+    "sellPrice": 1347,
+    "isNatural": false
+  },
+  {
+    "itemId": 163,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 4025,
+    "sellPrice": 1408,
+    "isNatural": true
+  },
+  {
+    "itemId": 163,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 4200,
+    "sellPrice": 1470,
+    "isNatural": true
+  },
+  {
+    "itemId": 163,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 4375,
+    "sellPrice": 1531,
+    "isNatural": true
+  },
+  {
+    "itemId": 163,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 2800,
+    "sellPrice": 980,
+    "isNatural": false
+  },
+  {
+    "itemId": 163,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 2940,
+    "sellPrice": 1028,
+    "isNatural": false
+  },
+  {
+    "itemId": 163,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 3080,
+    "sellPrice": 1077,
+    "isNatural": false
+  },
+  {
+    "itemId": 163,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 3220,
+    "sellPrice": 1126,
+    "isNatural": true
+  },
+  {
+    "itemId": 163,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 3360,
+    "sellPrice": 1176,
+    "isNatural": true
+  },
+  {
+    "itemId": 163,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 3500,
+    "sellPrice": 1224,
+    "isNatural": true
+  },
+  {
+    "itemId": 164,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 3850,
+    "sellPrice": 1347,
+    "isNatural": false
+  },
+  {
+    "itemId": 164,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 4042,
+    "sellPrice": 1414,
+    "isNatural": false
+  },
+  {
+    "itemId": 164,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 4235,
+    "sellPrice": 1481,
+    "isNatural": false
+  },
+  {
+    "itemId": 164,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 4427,
+    "sellPrice": 1548,
+    "isNatural": true
+  },
+  {
+    "itemId": 164,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 4620,
+    "sellPrice": 1617,
+    "isNatural": true
+  },
+  {
+    "itemId": 164,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 4812,
+    "sellPrice": 1684,
+    "isNatural": true
+  },
+  {
+    "itemId": 164,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 3500,
+    "sellPrice": 1225,
+    "isNatural": false
+  },
+  {
+    "itemId": 164,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 3675,
+    "sellPrice": 1286,
+    "isNatural": false
+  },
+  {
+    "itemId": 164,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 3875,
+    "sellPrice": 1347,
+    "isNatural": false
+  },
+  {
+    "itemId": 164,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 4025,
+    "sellPrice": 1408,
+    "isNatural": true
+  },
+  {
+    "itemId": 164,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 4200,
+    "sellPrice": 1470,
+    "isNatural": true
+  },
+  {
+    "itemId": 164,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 4375,
+    "sellPrice": 1531,
+    "isNatural": true
+  },
+  {
+    "itemId": 164,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 2800,
+    "sellPrice": 980,
+    "isNatural": false
+  },
+  {
+    "itemId": 164,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 2940,
+    "sellPrice": 1028,
+    "isNatural": false
+  },
+  {
+    "itemId": 164,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 3080,
+    "sellPrice": 1077,
+    "isNatural": false
+  },
+  {
+    "itemId": 164,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 3220,
+    "sellPrice": 1126,
+    "isNatural": true
+  },
+  {
+    "itemId": 164,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 3360,
+    "sellPrice": 1176,
+    "isNatural": true
+  },
+  {
+    "itemId": 164,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 3500,
+    "sellPrice": 1224,
+    "isNatural": true
+  },
+  {
+    "itemId": 165,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 3850,
+    "sellPrice": 1347,
+    "isNatural": false
+  },
+  {
+    "itemId": 165,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 4042,
+    "sellPrice": 1414,
+    "isNatural": false
+  },
+  {
+    "itemId": 165,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 4235,
+    "sellPrice": 1481,
+    "isNatural": false
+  },
+  {
+    "itemId": 165,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 4427,
+    "sellPrice": 1548,
+    "isNatural": true
+  },
+  {
+    "itemId": 165,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 4620,
+    "sellPrice": 1617,
+    "isNatural": true
+  },
+  {
+    "itemId": 165,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 4812,
+    "sellPrice": 1684,
+    "isNatural": true
+  },
+  {
+    "itemId": 165,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 3500,
+    "sellPrice": 1225,
+    "isNatural": false
+  },
+  {
+    "itemId": 165,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 3675,
+    "sellPrice": 1286,
+    "isNatural": false
+  },
+  {
+    "itemId": 165,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 3875,
+    "sellPrice": 1347,
+    "isNatural": false
+  },
+  {
+    "itemId": 165,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 4025,
+    "sellPrice": 1408,
+    "isNatural": true
+  },
+  {
+    "itemId": 165,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 4200,
+    "sellPrice": 1470,
+    "isNatural": true
+  },
+  {
+    "itemId": 165,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 4375,
+    "sellPrice": 1531,
+    "isNatural": true
+  },
+  {
+    "itemId": 165,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 2800,
+    "sellPrice": 980,
+    "isNatural": false
+  },
+  {
+    "itemId": 165,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 2940,
+    "sellPrice": 1028,
+    "isNatural": false
+  },
+  {
+    "itemId": 165,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 3080,
+    "sellPrice": 1077,
+    "isNatural": false
+  },
+  {
+    "itemId": 165,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 3220,
+    "sellPrice": 1126,
+    "isNatural": true
+  },
+  {
+    "itemId": 165,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 3360,
+    "sellPrice": 1176,
+    "isNatural": true
+  },
+  {
+    "itemId": 165,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 3500,
+    "sellPrice": 1224,
+    "isNatural": true
+  },
+  {
+    "itemId": 166,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 3850,
+    "sellPrice": 1347,
+    "isNatural": false
+  },
+  {
+    "itemId": 166,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 4042,
+    "sellPrice": 1414,
+    "isNatural": false
+  },
+  {
+    "itemId": 166,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 4235,
+    "sellPrice": 1481,
+    "isNatural": true
+  },
+  {
+    "itemId": 166,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 4427,
+    "sellPrice": 1548,
+    "isNatural": true
+  },
+  {
+    "itemId": 166,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 4620,
+    "sellPrice": 1617,
+    "isNatural": false
+  },
+  {
+    "itemId": 166,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 4812,
+    "sellPrice": 1684,
+    "isNatural": false
+  },
+  {
+    "itemId": 166,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 3500,
+    "sellPrice": 1225,
+    "isNatural": false
+  },
+  {
+    "itemId": 166,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 3675,
+    "sellPrice": 1286,
+    "isNatural": false
+  },
+  {
+    "itemId": 166,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 3875,
+    "sellPrice": 1347,
+    "isNatural": true
+  },
+  {
+    "itemId": 166,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 4025,
+    "sellPrice": 1408,
+    "isNatural": true
+  },
+  {
+    "itemId": 166,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 4200,
+    "sellPrice": 1470,
+    "isNatural": false
+  },
+  {
+    "itemId": 166,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 4375,
+    "sellPrice": 1531,
+    "isNatural": false
+  },
+  {
+    "itemId": 166,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 2800,
+    "sellPrice": 980,
+    "isNatural": false
+  },
+  {
+    "itemId": 166,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 2940,
+    "sellPrice": 1028,
+    "isNatural": false
+  },
+  {
+    "itemId": 166,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 3080,
+    "sellPrice": 1077,
+    "isNatural": true
+  },
+  {
+    "itemId": 166,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 3220,
+    "sellPrice": 1126,
+    "isNatural": true
+  },
+  {
+    "itemId": 166,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 3360,
+    "sellPrice": 1176,
+    "isNatural": false
+  },
+  {
+    "itemId": 166,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 3500,
+    "sellPrice": 1224,
+    "isNatural": false
+  },
+  {
+    "itemId": 167,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 3850,
+    "sellPrice": 1347,
+    "isNatural": false
+  },
+  {
+    "itemId": 167,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 4042,
+    "sellPrice": 1414,
+    "isNatural": false
+  },
+  {
+    "itemId": 167,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 4235,
+    "sellPrice": 1481,
+    "isNatural": false
+  },
+  {
+    "itemId": 167,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 4427,
+    "sellPrice": 1548,
+    "isNatural": true
+  },
+  {
+    "itemId": 167,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 4620,
+    "sellPrice": 1617,
+    "isNatural": true
+  },
+  {
+    "itemId": 167,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 4812,
+    "sellPrice": 1684,
+    "isNatural": true
+  },
+  {
+    "itemId": 167,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 3500,
+    "sellPrice": 1225,
+    "isNatural": false
+  },
+  {
+    "itemId": 167,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 3675,
+    "sellPrice": 1286,
+    "isNatural": false
+  },
+  {
+    "itemId": 167,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 3875,
+    "sellPrice": 1347,
+    "isNatural": false
+  },
+  {
+    "itemId": 167,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 4025,
+    "sellPrice": 1408,
+    "isNatural": true
+  },
+  {
+    "itemId": 167,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 4200,
+    "sellPrice": 1470,
+    "isNatural": true
+  },
+  {
+    "itemId": 167,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 4375,
+    "sellPrice": 1531,
+    "isNatural": true
+  },
+  {
+    "itemId": 167,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 2800,
+    "sellPrice": 980,
+    "isNatural": false
+  },
+  {
+    "itemId": 167,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 2940,
+    "sellPrice": 1028,
+    "isNatural": false
+  },
+  {
+    "itemId": 167,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 3080,
+    "sellPrice": 1077,
+    "isNatural": false
+  },
+  {
+    "itemId": 167,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 3220,
+    "sellPrice": 1126,
+    "isNatural": true
+  },
+  {
+    "itemId": 167,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 3360,
+    "sellPrice": 1176,
+    "isNatural": true
+  },
+  {
+    "itemId": 167,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 3500,
+    "sellPrice": 1224,
+    "isNatural": true
+  },
+  {
+    "itemId": 168,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 6600,
+    "sellPrice": 2310,
+    "isNatural": false
+  },
+  {
+    "itemId": 168,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 6930,
+    "sellPrice": 2425,
+    "isNatural": false
+  },
+  {
+    "itemId": 168,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 7260,
+    "sellPrice": 2541,
+    "isNatural": false
+  },
+  {
+    "itemId": 168,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 7590,
+    "sellPrice": 2656,
+    "isNatural": false
+  },
+  {
+    "itemId": 168,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 7920,
+    "sellPrice": 2772,
+    "isNatural": false
+  },
+  {
+    "itemId": 168,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 8250,
+    "sellPrice": 2887,
+    "isNatural": true
+  },
+  {
+    "itemId": 168,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 6000,
+    "sellPrice": 2100,
+    "isNatural": false
+  },
+  {
+    "itemId": 168,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 6300,
+    "sellPrice": 2205,
+    "isNatural": false
+  },
+  {
+    "itemId": 168,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 6600,
+    "sellPrice": 2310,
+    "isNatural": false
+  },
+  {
+    "itemId": 168,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 6900,
+    "sellPrice": 2415,
+    "isNatural": false
+  },
+  {
+    "itemId": 168,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 7200,
+    "sellPrice": 2520,
+    "isNatural": false
+  },
+  {
+    "itemId": 168,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 7500,
+    "sellPrice": 2625,
+    "isNatural": true
+  },
+  {
+    "itemId": 168,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 4800,
+    "sellPrice": 1680,
+    "isNatural": false
+  },
+  {
+    "itemId": 168,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 5040,
+    "sellPrice": 1764,
+    "isNatural": false
+  },
+  {
+    "itemId": 168,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 5280,
+    "sellPrice": 1848,
+    "isNatural": false
+  },
+  {
+    "itemId": 168,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 5520,
+    "sellPrice": 1932,
+    "isNatural": false
+  },
+  {
+    "itemId": 168,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 5760,
+    "sellPrice": 2016,
+    "isNatural": false
+  },
+  {
+    "itemId": 168,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 6000,
+    "sellPrice": 2100,
+    "isNatural": true
+  },
+  {
+    "itemId": 169,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 6600,
+    "sellPrice": 2310,
+    "isNatural": false
+  },
+  {
+    "itemId": 169,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 6930,
+    "sellPrice": 2425,
+    "isNatural": false
+  },
+  {
+    "itemId": 169,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 7260,
+    "sellPrice": 2541,
+    "isNatural": false
+  },
+  {
+    "itemId": 169,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 7590,
+    "sellPrice": 2656,
+    "isNatural": true
+  },
+  {
+    "itemId": 169,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 7920,
+    "sellPrice": 2772,
+    "isNatural": true
+  },
+  {
+    "itemId": 169,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 8250,
+    "sellPrice": 2887,
+    "isNatural": true
+  },
+  {
+    "itemId": 169,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 6000,
+    "sellPrice": 2100,
+    "isNatural": false
+  },
+  {
+    "itemId": 169,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 6300,
+    "sellPrice": 2205,
+    "isNatural": false
+  },
+  {
+    "itemId": 169,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 6600,
+    "sellPrice": 2310,
+    "isNatural": false
+  },
+  {
+    "itemId": 169,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 6900,
+    "sellPrice": 2415,
+    "isNatural": true
+  },
+  {
+    "itemId": 169,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 7200,
+    "sellPrice": 2520,
+    "isNatural": true
+  },
+  {
+    "itemId": 169,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 7500,
+    "sellPrice": 2625,
+    "isNatural": true
+  },
+  {
+    "itemId": 169,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 4800,
+    "sellPrice": 1680,
+    "isNatural": false
+  },
+  {
+    "itemId": 169,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 5040,
+    "sellPrice": 1764,
+    "isNatural": false
+  },
+  {
+    "itemId": 169,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 5280,
+    "sellPrice": 1848,
+    "isNatural": false
+  },
+  {
+    "itemId": 169,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 5520,
+    "sellPrice": 1932,
+    "isNatural": true
+  },
+  {
+    "itemId": 169,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 5760,
+    "sellPrice": 2016,
+    "isNatural": true
+  },
+  {
+    "itemId": 169,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 6000,
+    "sellPrice": 2100,
+    "isNatural": true
+  },
+  {
+    "itemId": 170,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 11000,
+    "sellPrice": 3850,
+    "isNatural": false
+  },
+  {
+    "itemId": 170,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 11550,
+    "sellPrice": 4042,
+    "isNatural": false
+  },
+  {
+    "itemId": 170,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 12100,
+    "sellPrice": 4235,
+    "isNatural": true
+  },
+  {
+    "itemId": 170,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 12650,
+    "sellPrice": 4427,
+    "isNatural": true
+  },
+  {
+    "itemId": 170,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 13200,
+    "sellPrice": 4620,
+    "isNatural": false
+  },
+  {
+    "itemId": 170,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 13750,
+    "sellPrice": 4812,
+    "isNatural": false
+  },
+  {
+    "itemId": 170,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 10000,
+    "sellPrice": 3500,
+    "isNatural": false
+  },
+  {
+    "itemId": 170,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 10500,
+    "sellPrice": 3675,
+    "isNatural": false
+  },
+  {
+    "itemId": 170,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 11000,
+    "sellPrice": 3850,
+    "isNatural": true
+  },
+  {
+    "itemId": 170,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 11500,
+    "sellPrice": 4025,
+    "isNatural": true
+  },
+  {
+    "itemId": 170,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 12000,
+    "sellPrice": 4200,
+    "isNatural": false
+  },
+  {
+    "itemId": 170,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 12500,
+    "sellPrice": 4375,
+    "isNatural": false
+  },
+  {
+    "itemId": 170,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 8000,
+    "sellPrice": 2800,
+    "isNatural": false
+  },
+  {
+    "itemId": 170,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 8400,
+    "sellPrice": 2940,
+    "isNatural": false
+  },
+  {
+    "itemId": 170,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 8800,
+    "sellPrice": 3080,
+    "isNatural": true
+  },
+  {
+    "itemId": 170,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 9200,
+    "sellPrice": 3220,
+    "isNatural": true
+  },
+  {
+    "itemId": 170,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 9600,
+    "sellPrice": 3360,
+    "isNatural": false
+  },
+  {
+    "itemId": 170,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 10000,
+    "sellPrice": 3500,
+    "isNatural": false
+  },
+  {
+    "itemId": 171,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 11000,
+    "sellPrice": 3850,
+    "isNatural": false
+  },
+  {
+    "itemId": 171,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 11550,
+    "sellPrice": 4042,
+    "isNatural": false
+  },
+  {
+    "itemId": 171,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 12100,
+    "sellPrice": 4235,
+    "isNatural": true
+  },
+  {
+    "itemId": 171,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 12650,
+    "sellPrice": 4427,
+    "isNatural": true
+  },
+  {
+    "itemId": 171,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 13200,
+    "sellPrice": 4620,
+    "isNatural": false
+  },
+  {
+    "itemId": 171,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 13750,
+    "sellPrice": 4812,
+    "isNatural": false
+  },
+  {
+    "itemId": 171,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 10000,
+    "sellPrice": 3500,
+    "isNatural": false
+  },
+  {
+    "itemId": 171,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 10500,
+    "sellPrice": 3675,
+    "isNatural": false
+  },
+  {
+    "itemId": 171,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 11000,
+    "sellPrice": 3850,
+    "isNatural": true
+  },
+  {
+    "itemId": 171,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 11500,
+    "sellPrice": 4025,
+    "isNatural": true
+  },
+  {
+    "itemId": 171,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 12000,
+    "sellPrice": 4200,
+    "isNatural": false
+  },
+  {
+    "itemId": 171,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 12500,
+    "sellPrice": 4375,
+    "isNatural": false
+  },
+  {
+    "itemId": 171,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 8000,
+    "sellPrice": 2800,
+    "isNatural": false
+  },
+  {
+    "itemId": 171,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 8400,
+    "sellPrice": 2940,
+    "isNatural": false
+  },
+  {
+    "itemId": 171,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 8800,
+    "sellPrice": 3080,
+    "isNatural": true
+  },
+  {
+    "itemId": 171,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 9200,
+    "sellPrice": 3220,
+    "isNatural": true
+  },
+  {
+    "itemId": 171,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 9600,
+    "sellPrice": 3360,
+    "isNatural": false
+  },
+  {
+    "itemId": 171,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 10000,
+    "sellPrice": 3500,
+    "isNatural": false
+  },
+  {
+    "itemId": 172,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 11000,
+    "sellPrice": 3850,
+    "isNatural": false
+  },
+  {
+    "itemId": 172,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 11550,
+    "sellPrice": 4042,
+    "isNatural": false
+  },
+  {
+    "itemId": 172,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 12100,
+    "sellPrice": 4235,
+    "isNatural": false
+  },
+  {
+    "itemId": 172,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 12650,
+    "sellPrice": 4427,
+    "isNatural": true
+  },
+  {
+    "itemId": 172,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 13200,
+    "sellPrice": 4620,
+    "isNatural": true
+  },
+  {
+    "itemId": 172,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 13750,
+    "sellPrice": 4812,
+    "isNatural": true
+  },
+  {
+    "itemId": 172,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 10000,
+    "sellPrice": 3500,
+    "isNatural": false
+  },
+  {
+    "itemId": 172,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 10500,
+    "sellPrice": 3675,
+    "isNatural": false
+  },
+  {
+    "itemId": 172,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 11000,
+    "sellPrice": 3850,
+    "isNatural": false
+  },
+  {
+    "itemId": 172,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 11500,
+    "sellPrice": 4025,
+    "isNatural": true
+  },
+  {
+    "itemId": 172,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 12000,
+    "sellPrice": 4200,
+    "isNatural": true
+  },
+  {
+    "itemId": 172,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 12500,
+    "sellPrice": 4375,
+    "isNatural": true
+  },
+  {
+    "itemId": 172,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 8000,
+    "sellPrice": 2800,
+    "isNatural": false
+  },
+  {
+    "itemId": 172,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 8400,
+    "sellPrice": 2940,
+    "isNatural": false
+  },
+  {
+    "itemId": 172,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 8800,
+    "sellPrice": 3080,
+    "isNatural": false
+  },
+  {
+    "itemId": 172,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 9200,
+    "sellPrice": 3220,
+    "isNatural": true
+  },
+  {
+    "itemId": 172,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 9600,
+    "sellPrice": 3360,
+    "isNatural": true
+  },
+  {
+    "itemId": 172,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 10000,
+    "sellPrice": 3500,
+    "isNatural": true
+  },
+  {
+    "itemId": 173,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 11000,
+    "sellPrice": 3850,
+    "isNatural": false
+  },
+  {
+    "itemId": 173,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 11550,
+    "sellPrice": 4042,
+    "isNatural": false
+  },
+  {
+    "itemId": 173,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 12100,
+    "sellPrice": 4235,
+    "isNatural": false
+  },
+  {
+    "itemId": 173,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 12650,
+    "sellPrice": 4427,
+    "isNatural": true
+  },
+  {
+    "itemId": 173,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 13200,
+    "sellPrice": 4620,
+    "isNatural": true
+  },
+  {
+    "itemId": 173,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 13750,
+    "sellPrice": 4812,
+    "isNatural": true
+  },
+  {
+    "itemId": 173,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 10000,
+    "sellPrice": 3500,
+    "isNatural": false
+  },
+  {
+    "itemId": 173,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 10500,
+    "sellPrice": 3675,
+    "isNatural": false
+  },
+  {
+    "itemId": 173,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 11000,
+    "sellPrice": 3850,
+    "isNatural": false
+  },
+  {
+    "itemId": 173,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 11500,
+    "sellPrice": 4025,
+    "isNatural": true
+  },
+  {
+    "itemId": 173,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 12000,
+    "sellPrice": 4200,
+    "isNatural": true
+  },
+  {
+    "itemId": 173,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 12500,
+    "sellPrice": 4375,
+    "isNatural": true
+  },
+  {
+    "itemId": 173,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 8000,
+    "sellPrice": 2800,
+    "isNatural": false
+  },
+  {
+    "itemId": 173,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 8400,
+    "sellPrice": 2940,
+    "isNatural": false
+  },
+  {
+    "itemId": 173,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 8800,
+    "sellPrice": 3080,
+    "isNatural": false
+  },
+  {
+    "itemId": 173,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 9200,
+    "sellPrice": 3220,
+    "isNatural": true
+  },
+  {
+    "itemId": 173,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 9600,
+    "sellPrice": 3360,
+    "isNatural": true
+  },
+  {
+    "itemId": 173,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 10000,
+    "sellPrice": 3500,
+    "isNatural": true
+  },
+  {
+    "itemId": 174,
+    "size": 0,
+    "state": 1,
+    "buyPrice": 11000,
+    "sellPrice": 3850,
+    "isNatural": false
+  },
+  {
+    "itemId": 174,
+    "size": 1,
+    "state": 1,
+    "buyPrice": 11550,
+    "sellPrice": 4042,
+    "isNatural": false
+  },
+  {
+    "itemId": 174,
+    "size": 2,
+    "state": 1,
+    "buyPrice": 12100,
+    "sellPrice": 4235,
+    "isNatural": false
+  },
+  {
+    "itemId": 174,
+    "size": 3,
+    "state": 1,
+    "buyPrice": 12650,
+    "sellPrice": 4427,
+    "isNatural": true
+  },
+  {
+    "itemId": 174,
+    "size": 4,
+    "state": 1,
+    "buyPrice": 13200,
+    "sellPrice": 4620,
+    "isNatural": true
+  },
+  {
+    "itemId": 174,
+    "size": 5,
+    "state": 1,
+    "buyPrice": 13750,
+    "sellPrice": 4812,
+    "isNatural": true
+  },
+  {
+    "itemId": 174,
+    "size": 0,
+    "state": 0,
+    "buyPrice": 10000,
+    "sellPrice": 3500,
+    "isNatural": false
+  },
+  {
+    "itemId": 174,
+    "size": 1,
+    "state": 0,
+    "buyPrice": 10500,
+    "sellPrice": 3675,
+    "isNatural": false
+  },
+  {
+    "itemId": 174,
+    "size": 2,
+    "state": 0,
+    "buyPrice": 11000,
+    "sellPrice": 3850,
+    "isNatural": false
+  },
+  {
+    "itemId": 174,
+    "size": 3,
+    "state": 0,
+    "buyPrice": 11500,
+    "sellPrice": 4025,
+    "isNatural": true
+  },
+  {
+    "itemId": 174,
+    "size": 4,
+    "state": 0,
+    "buyPrice": 12000,
+    "sellPrice": 4200,
+    "isNatural": true
+  },
+  {
+    "itemId": 174,
+    "size": 5,
+    "state": 0,
+    "buyPrice": 12500,
+    "sellPrice": 4375,
+    "isNatural": true
+  },
+  {
+    "itemId": 174,
+    "size": 0,
+    "state": -1,
+    "buyPrice": 8000,
+    "sellPrice": 2800,
+    "isNatural": false
+  },
+  {
+    "itemId": 174,
+    "size": 1,
+    "state": -1,
+    "buyPrice": 8400,
+    "sellPrice": 2940,
+    "isNatural": false
+  },
+  {
+    "itemId": 174,
+    "size": 2,
+    "state": -1,
+    "buyPrice": 8800,
+    "sellPrice": 3080,
+    "isNatural": false
+  },
+  {
+    "itemId": 174,
+    "size": 3,
+    "state": -1,
+    "buyPrice": 9200,
+    "sellPrice": 3220,
+    "isNatural": true
+  },
+  {
+    "itemId": 174,
+    "size": 4,
+    "state": -1,
+    "buyPrice": 9600,
+    "sellPrice": 3360,
+    "isNatural": true
+  },
+  {
+    "itemId": 174,
+    "size": 5,
+    "state": -1,
+    "buyPrice": 10000,
+    "sellPrice": 3500,
+    "isNatural": true
+  }
+]
