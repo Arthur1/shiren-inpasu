@@ -1,6 +1,12 @@
+
+const environment = process.env.NODE_ENV || 'development'
+const env = require(`./env.${environment}.js`)
+
 export default {
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
+
+  env,
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
@@ -26,6 +32,10 @@ export default {
 
   router: {
     trailingSlash: true,
+  },
+
+  generate: {
+    fallback: true,
   },
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
@@ -81,5 +91,13 @@ export default {
     id: 'G-DN44TCPVLR',
   },
 
-  publicRuntimeConfig: {},
+  sitemap: {
+    hostname: env.BASE_URL || 'https://inpasu.buratsuki.page',
+  },
+
+  robots: {
+    UserAgent: '*',
+    Disallow: '',
+    Sitemap: '/sitemap.xml',
+  },
 }
