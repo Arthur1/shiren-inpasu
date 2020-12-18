@@ -22,6 +22,15 @@
           />
         </b-form-group>
       </b-form>
+      <b-form class="mt-3">
+        <b-form-group>
+          <b-form-radio-group
+            v-model="wayToGet"
+            :options="waysToGet"
+            name="wayToGet"
+          />
+        </b-form-group>
+      </b-form>
       <b-form inline class="mt-3">
         <b-input-group prepend="容量" class="mb-2 mr-sm-2 mb-sm-0">
           <b-form-input v-model.number="size" type="number" :disabled="sizeIsDisabled"></b-form-input>
@@ -268,14 +277,14 @@ import prices from '@/assets/json/genshi_prices.json'
 export default {
   data() {
     return {
+      activeTabId: 0,
       buyPrice: '',
       sellPrice: '',
       state: 0,
+      wayToGet: '',
       size: '',
       onlyUnappear: false,
       onlyNatural: false,
-      items,
-      prices,
       states: [
         {
           text: '呪い・封印',
@@ -290,9 +299,36 @@ export default {
           value: 1,
         },
       ],
-      activeTabId: 0,
+      waysToGet: [
+        {
+          text: '床',
+          value: 'inFloor',
+        },
+        {
+          text: '盗',
+          value: 'inTodo',
+        },
+        {
+          text: 'ト',
+          value: 'inTorikomareru',
+        },
+        {
+          text: '変',
+          value: 'inChange',
+        },
+        {
+          text: '店',
+          value: 'inShop',
+        },
+        {
+          text: '高',
+          value: 'inExShop',
+        },
+      ],
       appears: [],
-      modalItem: null,
+       modalItem: null,
+      items,
+      prices,
     }
   },
   computed: {
@@ -397,15 +433,25 @@ export default {
   },
   created() {
     try {
-      this.appears = JSON.parse(localStorage.getItem('genshi_appears'));
+      const savedAppearsJson = window.localStorage.getItem('genshi_appears')
+      if (savedAppearsJson === null) throw 'Empty localStorage Error'
+      this.appears = JSON.parse(savedAppearsJson)
     } catch (_) {
       this.resetAppears()
+    }
+  },
+  head() {
+    return {
+      title: '原始へ続く穴',
     }
   },
   methods: {
     filterItems(items) {
       if (this.onlyUnappear) {
         items = items.filter(item => !this.appears[item.id - 1])
+      }
+      if (this.wayToGet) {
+        items = items.filter(item => item[this.wayToGet])
       }
       return items
     },
@@ -427,6 +473,7 @@ export default {
       this.sellPrice = ''
       this.size = ''
       this.state = 0
+      this.wayToGet = ''
     },
     resetAppears() {
       this.appears = this.items.map(item => false)
@@ -445,7 +492,7 @@ export default {
   },
   watch: {
     appears(newAppears) {
-      localStorage.setItem('genshi_appears', JSON.stringify(newAppears));
+      localStorage.setItem('genshi_appears', JSON.stringify(newAppears))
     },
   },
 }

@@ -4,11 +4,15 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'shiren-inpasu',
+    title: 'Shiren Inpasu',
+    titleTemplate: '%s | Shiren Inpasu',
+    htmlAttrs: {
+      lang: 'ja'
+    },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' }
+      { hid: 'description', name: 'description', content: '風来のシレンシリーズの「もっと不思議なダンジョン」識別支援ツール' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
@@ -34,6 +38,9 @@ export default {
 
   // Modules for dev and build (recommended) (https://go.nuxtjs.dev/config-modules)
   buildModules: [
+    '@nuxtjs/google-analytics',
+    '@nuxtjs/robots',
+    '@nuxtjs/sitemap',
   ],
 
   // Modules (https://go.nuxtjs.dev/config-modules)
@@ -53,4 +60,26 @@ export default {
     bootstrapVueCSS: false,
     icons: true,
   },
+
+  pwa: {
+    manifest: {
+      name: 'Shiren Inpasu',
+      short_name: 'Inpasu',
+      description: '風来のシレンシリーズの「もっと不思議なダンジョン」識別支援ツール',
+      lang: 'ja',
+      theme_color: '#2563eb',
+      background_color: '#ffffff'
+    },
+    meta: {
+      ogType: 'website',
+      ogSiteName: 'Shiren Inpasu',
+      ogDescription: '風来のシレンシリーズの「もっと不思議なダンジョン」識別支援ツール',
+    },
+  },
+
+  googleAnalytics: {
+    id: 'G-DN44TCPVLR',
+  },
+
+  publicRuntimeConfig: {},
 }
